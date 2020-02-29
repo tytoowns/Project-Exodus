@@ -1,0 +1,15 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Jason\Documents\GitHub\Project-Exodus).
+  Parsing headers for ProjectExodusEditor
+    Running UnrealHeaderTool "C:\Users\Jason\Documents\GitHub\Project-Exodus\ProjectExodus\ProjectExodus.uproject" "C:\Users\Jason\Documents\GitHub\Project-Exodus\ProjectExodus\Intermediate\Build\Win64\ProjectExodusEditor\Development\ProjectExodusEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for ProjectExodusEditor in 10.9017496 seconds
+  Building ProjectExodusEditor...
+  Using Visual Studio 2017 14.16.27027 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17134.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 8 processes...
+    [1/4] ProjectExodusGameInstance.cpp
+    [2/4] UE4Editor-ProjectExodus-0004.lib
+       Creating library C:\Users\Jason\Documents\GitHub\Project-Exodus\ProjectExodus\Intermediate\Build\Win64\UE4Editor\Development\ProjectExodus\UE4Editor-ProjectExodus-0004.lib and object C:\Users\Jason\Documents\GitHub\Project-Exodus\ProjectExodus\Intermediate\Build\Win64\UE4Editor\Development\ProjectExodus\UE4Editor-ProjectExodus-0004.exp
+    [3/4] UE4Editor-ProjectExodus-0004.dll
+       Creating library C:\Users\Jason\Documents\GitHub\Project-Exodus\ProjectExodus\Intermediate\Build\Win64\UE4Editor\Development\ProjectExodus\UE4Editor-ProjectExodus-0004.suppressed.lib and object C:\Users\Jason\Documents\GitHub\Project-Exodus\ProjectExodus\Intermediate\Build\Win64\UE4Editor\Development\ProjectExodus\UE4Editor-ProjectExodus-0004.suppressed.exp
+    [4/4] ProjectExodusEditor.target
+  Total time in Parallel executor: 9.95 seconds
+  Total execution time: 21.85 seconds
