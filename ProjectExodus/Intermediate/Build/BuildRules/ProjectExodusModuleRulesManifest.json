@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\Harrison\\Documents\\GitHub\\Project-Exodus\\ProjectExodus\\Source\\ProjectExodus\\ProjectExodus.Build.cs",
-		"C:\\Users\\Harrison\\Documents\\GitHub\\Project-Exodus\\ProjectExodus\\Source\\ProjectExodus.Target.cs",
-		"C:\\Users\\Harrison\\Documents\\GitHub\\Project-Exodus\\ProjectExodus\\Source\\ProjectExodusEditor.Target.cs"
+		"C:\\Users\\Jason\\Documents\\GitHub\\Project-Exodus\\ProjectExodus\\Source\\ProjectExodus\\ProjectExodus.Build.cs",
+		"C:\\Users\\Jason\\Documents\\GitHub\\Project-Exodus\\ProjectExodus\\Source\\ProjectExodus.Target.cs",
+		"C:\\Users\\Jason\\Documents\\GitHub\\Project-Exodus\\ProjectExodus\\Source\\ProjectExodusEditor.Target.cs"
 	],
 	"EngineVersion": "4.24.2"
 }
