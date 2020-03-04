@@ -285,6 +285,8 @@
     <None Include="..\..\Config\SteamVRBindings\vive_cosmos_controller.json"/>
     <None Include="..\..\Config\SteamVRBindings\vive_pro.json"/>
     <None Include="..\..\Config\SteamVRBindings\vive_tracker_camera.json"/>
+    <ClCompile Include="..\..\Source\ProjectExodus\EngineerRoom.cpp"/>
+    <ClInclude Include="..\..\Source\ProjectExodus\EngineerRoom.h"/>
     <None Include="..\..\Source\ProjectExodus\ProjectExodus.Build.cs"/>
     <ClCompile Include="..\..\Source\ProjectExodus\ProjectExodus.cpp"/>
     <ClInclude Include="..\..\Source\ProjectExodus\ProjectExodus.h"/>
