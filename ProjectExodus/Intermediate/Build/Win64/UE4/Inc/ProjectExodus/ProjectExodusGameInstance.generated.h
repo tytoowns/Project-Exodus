@@ -16,6 +16,14 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define ProjectExodus_Source_ProjectExodus_ProjectExodusGameInstance_h_15_SPARSE_DATA
 #define ProjectExodus_Source_ProjectExodus_ProjectExodusGameInstance_h_15_RPC_WRAPPERS \
  \
+	DECLARE_FUNCTION(execLevelOne) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->LevelOne(); \
+		P_NATIVE_END; \
+	} \
+ \
 	DECLARE_FUNCTION(execJoin) \
 	{ \
 		P_GET_PROPERTY(UStrProperty,Z_Param_Address); \
@@ -35,6 +43,14 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 
 #define ProjectExodus_Source_ProjectExodus_ProjectExodusGameInstance_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execLevelOne) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->LevelOne(); \
+		P_NATIVE_END; \
+	} \
  \
 	DECLARE_FUNCTION(execJoin) \
 	{ \

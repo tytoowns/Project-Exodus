@@ -46,3 +46,16 @@ void UProjectExodusGameInstance::Join(const FString & Address)
 	
 
 }
+
+void UProjectExodusGameInstance::LevelOne()
+{
+	UEngine* Engine = GetEngine();
+	if (!ensure(Engine != nullptr)) return;
+
+	Engine->AddOnScreenDebugMessage(0, 2, FColor::Green, TEXT("Changing Level"));
+
+	UWorld* World = GetWorld();
+	if (!ensure(World != nullptr)) return;
+
+	World->ServerTravel("/Game/Levels/LevelOne?listen");
+}

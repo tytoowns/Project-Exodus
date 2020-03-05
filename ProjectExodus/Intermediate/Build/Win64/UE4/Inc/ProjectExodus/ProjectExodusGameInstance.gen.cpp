@@ -19,6 +19,7 @@ void EmptyLinkFunctionForGeneratedCodeProjectExodusGameInstance() {}
 	UPackage* Z_Construct_UPackage__Script_ProjectExodus();
 	PROJECTEXODUS_API UFunction* Z_Construct_UFunction_UProjectExodusGameInstance_Host();
 	PROJECTEXODUS_API UFunction* Z_Construct_UFunction_UProjectExodusGameInstance_Join();
+	PROJECTEXODUS_API UFunction* Z_Construct_UFunction_UProjectExodusGameInstance_LevelOne();
 // End Cross Module References
 	void UProjectExodusGameInstance::StaticRegisterNativesUProjectExodusGameInstance()
 	{
@@ -26,6 +27,7 @@ void EmptyLinkFunctionForGeneratedCodeProjectExodusGameInstance() {}
 		static const FNameNativePtrPair Funcs[] = {
 			{ "Host", &UProjectExodusGameInstance::execHost },
 			{ "Join", &UProjectExodusGameInstance::execJoin },
+			{ "LevelOne", &UProjectExodusGameInstance::execLevelOne },
 		};
 		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, UE_ARRAY_COUNT(Funcs));
 	}
@@ -91,6 +93,28 @@ void EmptyLinkFunctionForGeneratedCodeProjectExodusGameInstance() {}
 		}
 		return ReturnFunction;
 	}
+	struct Z_Construct_UFunction_UProjectExodusGameInstance_LevelOne_Statics
+	{
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_UProjectExodusGameInstance_LevelOne_Statics::Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "ProjectExodusGameInstance.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_UProjectExodusGameInstance_LevelOne_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UProjectExodusGameInstance, nullptr, "LevelOne", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00020601, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_UProjectExodusGameInstance_LevelOne_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_UProjectExodusGameInstance_LevelOne_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_UProjectExodusGameInstance_LevelOne()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_UProjectExodusGameInstance_LevelOne_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
 	UClass* Z_Construct_UClass_UProjectExodusGameInstance_NoRegister()
 	{
 		return UProjectExodusGameInstance::StaticClass();
@@ -112,6 +136,7 @@ void EmptyLinkFunctionForGeneratedCodeProjectExodusGameInstance() {}
 	const FClassFunctionLinkInfo Z_Construct_UClass_UProjectExodusGameInstance_Statics::FuncInfo[] = {
 		{ &Z_Construct_UFunction_UProjectExodusGameInstance_Host, "Host" }, // 2020371115
 		{ &Z_Construct_UFunction_UProjectExodusGameInstance_Join, "Join" }, // 48971290
+		{ &Z_Construct_UFunction_UProjectExodusGameInstance_LevelOne, "LevelOne" }, // 958229595
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UProjectExodusGameInstance_Statics::Class_MetaDataParams[] = {
@@ -148,7 +173,7 @@ void EmptyLinkFunctionForGeneratedCodeProjectExodusGameInstance() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UProjectExodusGameInstance, 1354381387);
+	IMPLEMENT_CLASS(UProjectExodusGameInstance, 1694036222);
 	template<> PROJECTEXODUS_API UClass* StaticClass<UProjectExodusGameInstance>()
 	{
 		return UProjectExodusGameInstance::StaticClass();
