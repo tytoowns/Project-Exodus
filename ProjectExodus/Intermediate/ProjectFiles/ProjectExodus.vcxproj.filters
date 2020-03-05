@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\ProjectExodus.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{3841323D-B6F9-4C8F-8EC9-2E0359058DC1}</UniqueIdentifier>
+      <UniqueIdentifier>{C9A92EDD-7F64-40EA-B734-4615C6DD2E40}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ProjectExodus.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,9 @@
     <None Include="..\..\Source\ProjectExodusEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\ProjectExodus.code-workspace" />
     <Filter Include="Config">
-      <UniqueIdentifier>{E3C80FF7-E8F6-4D7C-8A33-8BDC4BE3523E}</UniqueIdentifier>
+      <UniqueIdentifier>{43276B62-B988-4B3A-9AB6-4971B919096F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +31,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Config\SteamVRBindings">
-      <UniqueIdentifier>{79EB2AC8-8160-4D1C-B16E-48BAE8153B2C}</UniqueIdentifier>
+      <UniqueIdentifier>{B9C11D7B-3FF9-4F84-907D-99F37EE619A9}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\SteamVRBindings\gamepad.json">
       <Filter>Config\SteamVRBindings</Filter>
@@ -69,8 +70,14 @@
       <Filter>Config\SteamVRBindings</Filter>
     </None>
     <Filter Include="Source\ProjectExodus">
-      <UniqueIdentifier>{26FA0CFD-7AF5-4F71-8DBC-6AE6E18C81E5}</UniqueIdentifier>
+      <UniqueIdentifier>{A4BD7CC0-6DC7-4B2D-A57E-7D703F86BDE6}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\ProjectExodus\EngineerRoom.cpp">
+      <Filter>Source\ProjectExodus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectExodus\EngineerRoom.h">
+      <Filter>Source\ProjectExodus</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\ProjectExodus\EnigneerRoom.cpp">
       <Filter>Source\ProjectExodus</Filter>
     </ClCompile>
