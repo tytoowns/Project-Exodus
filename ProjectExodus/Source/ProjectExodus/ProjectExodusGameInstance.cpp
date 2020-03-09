@@ -57,5 +57,5 @@ void UProjectExodusGameInstance::LevelOne()
 	UWorld* World = GetWorld();
 	if (!ensure(World != nullptr)) return;
 
-	World->ServerTravel("/Game/Levels/LevelOne?listen");
+	World->ServerTravel("/Game/Levels/LevelOne");
 }

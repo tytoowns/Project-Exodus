@@ -1,17 +1,22 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Jason\Documents\GitHub\Project-Exodus).
+  Creating makefile for ProjectExodusEditor (build metadata has changed)
   Parsing headers for ProjectExodusEditor
     Running UnrealHeaderTool "C:\Users\Jason\Documents\GitHub\Project-Exodus\ProjectExodus\ProjectExodus.uproject" "C:\Users\Jason\Documents\GitHub\Project-Exodus\ProjectExodus\Intermediate\Build\Win64\ProjectExodusEditor\Development\ProjectExodusEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for ProjectExodusEditor in 5.2562999 seconds
+  Reflection code generated for ProjectExodusEditor in 10.1559975 seconds
   Building ProjectExodusEditor...
   Using Visual Studio 2017 14.16.27027 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17134.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 6 actions with 8 processes...
-    [1/6] ProjectExodus.init.gen.cpp
-    [2/6] ProjectExodusGameInstance.cpp
-    [3/6] ProjectExodusGameInstance.gen.cpp
-    [4/6] UE4Editor-ProjectExodus-0001.lib
+  Building 10 actions with 8 processes...
+    [1/10] SharedPCH.Engine.ShadowErrors.cpp
+    [2/10] ProjectExodus.cpp
+    [3/10] EnigneerRoom.cpp
+    [4/10] ProjectExodusGameInstance.cpp
+    [5/10] ProjectExodus.init.gen.cpp
+    [6/10] ProjectExodusGameInstance.gen.cpp
+    [7/10] EnigneerRoom.gen.cpp
+    [8/10] UE4Editor-ProjectExodus-0001.lib
        Creating library C:\Users\Jason\Documents\GitHub\Project-Exodus\ProjectExodus\Intermediate\Build\Win64\UE4Editor\Development\ProjectExodus\UE4Editor-ProjectExodus-0001.lib and object C:\Users\Jason\Documents\GitHub\Project-Exodus\ProjectExodus\Intermediate\Build\Win64\UE4Editor\Development\ProjectExodus\UE4Editor-ProjectExodus-0001.exp
-    [5/6] UE4Editor-ProjectExodus-0001.dll
+    [9/10] UE4Editor-ProjectExodus-0001.dll
        Creating library C:\Users\Jason\Documents\GitHub\Project-Exodus\ProjectExodus\Intermediate\Build\Win64\UE4Editor\Development\ProjectExodus\UE4Editor-ProjectExodus-0001.suppressed.lib and object C:\Users\Jason\Documents\GitHub\Project-Exodus\ProjectExodus\Intermediate\Build\Win64\UE4Editor\Development\ProjectExodus\UE4Editor-ProjectExodus-0001.suppressed.exp
-    [6/6] ProjectExodusEditor.target
-  Total time in Parallel executor: 10.28 seconds
-  Total execution time: 16.61 seconds
+    [10/10] ProjectExodusEditor.target
+  Total time in Parallel executor: 29.67 seconds
+  Total execution time: 42.65 seconds
