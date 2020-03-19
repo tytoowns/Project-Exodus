@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "ProjectExodus",
-			"Path": "U:\\GitHub\\Project-Exodus\\ProjectExodus\\Source\\ProjectExodus.Target.cs",
+			"Path": "C:\\Users\\Gamer\\Documents\\GitHub\\Project-Exodus\\ProjectExodus\\Source\\ProjectExodus.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "ProjectExodusEditor",
-			"Path": "U:\\GitHub\\Project-Exodus\\ProjectExodus\\Source\\ProjectExodusEditor.Target.cs",
+			"Path": "C:\\Users\\Gamer\\Documents\\GitHub\\Project-Exodus\\ProjectExodus\\Source\\ProjectExodusEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
