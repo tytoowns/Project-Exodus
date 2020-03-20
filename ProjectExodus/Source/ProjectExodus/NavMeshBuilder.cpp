@@ -17,7 +17,7 @@ ANavMeshBuilder::ANavMeshBuilder()
 
 	NavBox = CreateDefaultSubobject<UBoxComponent>(TEXT("NavBox"));
 	NavBox->SetCollisionResponseToAllChannels(ECR_Ignore);
-	NavBox->SetCollisionResponseToChannel(ECC_Visibility, ECR_Block);
+	NavBox->SetCollisionResponseToChannel(ECC_GameTraceChannel1, ECR_Block);
 	NavBox->SetBoxExtent(FVector(1000.0f, 1000.0f, 1000.0f));
 }
 

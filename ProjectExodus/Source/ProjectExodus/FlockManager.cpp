@@ -56,7 +56,7 @@ void AFlockManager::ScanBoundary()
 	FVector End = FVector(0.0f, 0.0f, 0.0f);
 
 	//Do trace
-	if (GetWorld()->SweepMultiByChannel(HitResults, Start, End, Rot, ECollisionChannel::ECC_Visibility, FCollisionShape::MakeBox(SpawnBox->GetScaledBoxExtent()), TraceParams))
+	if (GetWorld()->SweepMultiByChannel(HitResults, Start, End, Rot, ECollisionChannel::ECC_GameTraceChannel1, FCollisionShape::MakeBox(SpawnBox->GetScaledBoxExtent()), TraceParams))
 	{
 		for (int i = 0; i < HitResults.Num(); i++)
 		{
