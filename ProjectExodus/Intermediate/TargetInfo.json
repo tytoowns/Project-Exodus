@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ProjectExodus",
+			"Path": "D:\\GameDevModule\\Project-Exodus\\ProjectExodus\\Source\\ProjectExodus.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ProjectExodusEditor",
+			"Path": "D:\\GameDevModule\\Project-Exodus\\ProjectExodus\\Source\\ProjectExodusEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
