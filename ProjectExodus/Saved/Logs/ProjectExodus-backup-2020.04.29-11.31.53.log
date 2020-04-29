@@ -1,0 +1,882 @@
+﻿Log file open, 04/22/20 17:37:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ProjectExodus
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.098679
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe -Mode=QueryTargets -Project="C:/Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/ProjectExodus.uproject" -Output="C:/Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Intermediate/TargetInfo.json"]
+LogInit: Warning: Incompatible or missing module: ProjectExodus
+Running C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe Development Win64 -Project="C:/Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/ProjectExodus.uproject" -TargetType=Editor -Progress -NoHotReloadFromIDE
+Using 'git status' to determine working set for adaptive non-unity build (C:\Users\kyles\OneDrive\Documents\GitHub\Project-Exodus).
+Creating makefile for ProjectExodusEditor (no existing makefile)
+@progress push 5%
+Parsing headers for ProjectExodusEditor
+  Running UnrealHeaderTool "C:\Users\kyles\OneDrive\Documents\GitHub\Project-Exodus\ProjectExodus\ProjectExodus.uproject" "C:\Users\kyles\OneDrive\Documents\GitHub\Project-Exodus\ProjectExodus\Intermediate\Build\Win64\ProjectExodusEditor\Development\ProjectExodusEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+Reflection code generated for ProjectExodusEditor in 4.8917026 seconds
+@progress pop
+Building ProjectExodusEditor...
+Using Visual Studio 2019 14.25.28614 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+Building 17 actions with 12 processes...
+  @progress 'Compiling C++ source code...' 0%
+  @progress 'Compiling C++ source code...' 6%
+  [1/17] Default.rc2
+  @progress 'Compiling C++ source code...' 12%
+  [2/17] SharedPCH.Engine.ShadowErrors.cpp
+  @progress 'Compiling C++ source code...' 18%
+  [3/17] ProjectExodus.cpp
+  @progress 'Compiling C++ source code...' 24%
+  [4/17] EnigneerRoom.cpp
+  @progress 'Compiling C++ source code...' 29%
+  [5/17] ProjectExodusGameInstance.cpp
+  @progress 'Compiling C++ source code...' 35%
+  [6/17] EnigneerRoom.gen.cpp
+  @progress 'Compiling C++ source code...' 41%
+  [7/17] ProjectExodus.init.gen.cpp
+  @progress 'Compiling C++ source code...' 47%
+  [8/17] FlockManager.gen.cpp
+  @progress 'Compiling C++ source code...' 53%
+  [9/17] ProjectExodusGameInstance.gen.cpp
+  @progress 'Compiling C++ source code...' 59%
+  [10/17] NavMeshBuilder.cpp
+  @progress 'Compiling C++ source code...' 65%
+  [11/17] NavMeshBuilder.gen.cpp
+  @progress 'Compiling C++ source code...' 71%
+  [12/17] Boid.gen.cpp
+  @progress 'Compiling C++ source code...' 76%
+  [13/17] Boid.cpp
+  @progress 'Compiling C++ source code...' 82%
+  [14/17] FlockManager.cpp
+  @progress 'Compiling C++ source code...' 88%
+  [15/17] UE4Editor-ProjectExodus.lib
+     Creating library C:\Users\kyles\OneDrive\Documents\GitHub\Project-Exodus\ProjectExodus\Intermediate\Build\Win64\UE4Editor\Development\ProjectExodus\UE4Editor-ProjectExodus.lib and object C:\Users\kyles\OneDrive\Documents\GitHub\Project-Exodus\ProjectExodus\Intermediate\Build\Win64\UE4Editor\Development\ProjectExodus\UE4Editor-ProjectExodus.exp
+  @progress 'Compiling C++ source code...' 94%
+  [16/17] UE4Editor-ProjectExodus.dll
+     Creating library C:\Users\kyles\OneDrive\Documents\GitHub\Project-Exodus\ProjectExodus\Intermediate\Build\Win64\UE4Editor\Development\ProjectExodus\UE4Editor-ProjectExodus.suppressed.lib and object C:\Users\kyles\OneDrive\Documents\GitHub\Project-Exodus\ProjectExodus\Intermediate\Build\Win64\UE4Editor\Development\ProjectExodus\UE4Editor-ProjectExodus.suppressed.exp
+  @progress 'Compiling C++ source code...' 100%
+  [17/17] ProjectExodusEditor.target
+Total time in Parallel executor: 15.80 seconds
+Total execution time: 26.48 seconds
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.22-16.37.54:178][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.22-16.37.54:178][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.22-16.37.54:179][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Engine.ini]
+[2020.04.22-16.37.54:179][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.22-16.37.54:179][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Engine.ini]
+[2020.04.22-16.37.54:179][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Engine.ini]
+[2020.04.22-16.37.54:179][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.22-16.37.54:179][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.22-16.37.54:179][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.22-16.37.54:179][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.22-16.37.54:179][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.22-16.37.54:179][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.22-16.37.54:179][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.22-16.37.54:179][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.22-16.37.54:179][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.22-16.37.54:179][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.22-16.37.54:179][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.22-16.37.54:179][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.22-16.37.54:179][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.22-16.37.54:179][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.22-16.37.54:179][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Engine.ini]
+[2020.04.22-16.37.54:179][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.22-16.37.54:180][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.22-16.37.54:180][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.22-16.37.54:180][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.22-16.37.54:180][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.22-16.37.54:180][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.22-16.37.54:180][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.22-16.37.54:180][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.22-16.37.54:180][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.22-16.37.54:180][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.22-16.37.54:180][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.22-16.37.54:180][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.22-16.37.54:180][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.22-16.37.54:180][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Engine.ini]
+[2020.04.22-16.37.54:180][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Engine.ini]
+[2020.04.22-16.37.54:185][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Scalability.ini]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Scalability.ini]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Scalability.ini]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Scalability.ini]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.22-16.37.54:185][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Scalability.ini]
+[2020.04.22-16.37.54:185][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Scalability.ini]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Scalability.ini]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Scalability.ini]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.22-16.37.54:186][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.22-16.37.54:187][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.22-16.37.54:187][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.22-16.37.54:195][  0]LogHAL: Display: Platform has ~ 16 GB [17121054720 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.22-16.37.54:195][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.22-16.37.54:196][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Scalability.ini]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Scalability.ini]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Scalability.ini]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Scalability.ini]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Scalability.ini]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Scalability.ini]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Scalability.ini]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Scalability.ini]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.22-16.37.54:196][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Engine.ini]
+[2020.04.22-16.37.54:196][  0]LogInit: Computer: DESKTOP-FVNM18U
+[2020.04.22-16.37.54:197][  0]LogInit: User: kyles
+[2020.04.22-16.37.54:197][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.04.22-16.37.54:197][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.22-16.37.54:197][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.04.22-16.37.54:197][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.22-16.37.54:197][  0]LogMemory: Process Physical Memory: 105.68 MB used, 105.68 MB peak
+[2020.04.22-16.37.54:197][  0]LogMemory: Process Virtual Memory: 102.13 MB used, 102.13 MB peak
+[2020.04.22-16.37.54:197][  0]LogMemory: Physical Memory: 6497.42 MB used,  9830.49 MB free, 16327.91 MB total
+[2020.04.22-16.37.54:197][  0]LogMemory: Virtual Memory: 5221.05 MB used,  134212504.00 MB free, 134217728.00 MB total
+[2020.04.22-16.37.54:202][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.22-16.37.54:388][  0]LogInit: Using OS detected language (en-GB).
+[2020.04.22-16.37.54:388][  0]LogInit: Using OS detected locale (en-GB).
+[2020.04.22-16.37.54:389][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.04.22-16.37.54:643][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.22-16.37.54:719][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.22-16.37.54:719][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.22-16.37.56:838][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2020.04.22-16.37.56:838][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.22-16.37.56:838][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.22-16.37.56:838][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.22-16.37.56:931][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2020.04.22-16.37.56:931][  0]LogD3D11RHI:       6052/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.04.22-16.37.56:933][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.22-16.37.56:933][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.22-16.37.56:933][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.22-16.37.56:940][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.22-16.37.56:940][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.22-16.37.56:940][  0]LogWindows: EnumDisplayDevices:
+[2020.04.22-16.37.56:940][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2020.04.22-16.37.56:940][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.04.22-16.37.56:940][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.04.22-16.37.56:941][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.04.22-16.37.56:941][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.04.22-16.37.56:941][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2020.04.22-16.37.56:941][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.04.22-16.37.56:941][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.04.22-16.37.56:941][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.04.22-16.37.56:974][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.04.22-16.37.56:975][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.22-16.37.57:047][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.22-16.37.57:274][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.22-16.37.57:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.22-16.37.57:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.22-16.37.57:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.22-16.37.57:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.22-16.37.57:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.22-16.37.57:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.22-16.37.57:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.22-16.37.57:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.22-16.37.57:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.22-16.37.57:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.22-16.37.57:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.22-16.37.57:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.22-16.37.57:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.22-16.37.57:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.22-16.37.57:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.22-16.37.57:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.22-16.37.57:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.22-16.37.57:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.22-16.37.57:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.22-16.37.57:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.22-16.37.57:340][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.22-16.37.57:348][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.22-16.37.57:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.22-16.37.57:364][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.22-16.37.57:372][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.22-16.37.57:379][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.22-16.37.57:403][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.22-16.37.57:403][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.22-16.37.57:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.22-16.37.57:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.22-16.37.57:422][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.22-16.37.57:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.22-16.37.57:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.22-16.37.57:444][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.22-16.37.57:444][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.22-16.37.57:474][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.22-16.37.57:563][  0]LogShaderCompilers: Guid format shader working directory is -39 characters bigger than the processId version (../../../../../../Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Intermediate/Shaders/WorkingDirectory/10516/).
+[2020.04.22-16.37.57:563][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kyles/AppData/Local/Temp/UnrealShaderWorkingDir/4C4C6E2D4D4D4E4FCD487897D8ED2AFC/'.
+[2020.04.22-16.37.57:564][  0]LogXGEController: Cleaning working directory: C:/Users/kyles/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.04.22-16.37.57:564][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.22-16.37.57:565][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.22-16.37.57:565][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.22-16.37.59:917][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.22-16.38.00:170][  0]LogDerivedDataCache: Loaded boot cache 0.25s 112MB C:/Users/kyles/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.22-16.38.00:170][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kyles/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.22-16.38.00:170][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.22-16.38.00:170][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.22-16.38.00:170][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.22-16.38.00:170][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.22-16.38.00:186][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.22-16.38.00:186][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.22-16.38.00:186][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.22-16.38.00:188][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kyles/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.22-16.38.00:188][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.22-16.38.00:188][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.22-16.38.00:210][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.22-16.38.00:229][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.22-16.38.00:244][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.22-16.38.00:423][  0]LogAssetRegistry: FAssetRegistry took 0.0044 seconds to start up
+[2020.04.22-16.38.00:941][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.22-16.38.01:242][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.22-16.38.01:242][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.22-16.38.01:242][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.22-16.38.01:242][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.22-16.38.01:242][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.22-16.38.01:285][  0]LogNetVersion: ProjectExodus 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3289163539)
+[2020.04.22-16.38.04:120][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.034788 seconds
+[2020.04.22-16.38.04:127][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.22-16.38.04:127][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.22-16.38.04:127][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.22-16.38.04:805][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.22-16.38.04:842][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.22-16.38.04:905][  0]LogMaterial: Display: Missing cached shader map for material Drone_low, compiling. 
+[2020.04.22-16.38.04:944][  0]LogStaticMesh: Building static mesh Drone_low1...
+[2020.04.22-16.38.05:044][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.04.22-16.38.05:044][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.04.22-16.38.05:044][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.04.22-16.38.05:044][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.04.22-16.38.05:044][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.04.22-16.38.05:044][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.04.22-16.38.05:044][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.04.22-16.38.05:044][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.04.22-16.38.05:044][  0]LogStaticMesh: Built static mesh [0.10s] /Game/StaticMeshes/Drone_low1.Drone_low1
+[2020.04.22-16.38.05:518][  0]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2020.04.22-16.38.05:518][  0]LogTexture: Display: Building textures: T_NoiseNormal_81 (BC5, 1024X1024)
+[2020.04.22-16.38.05:518][  0]LogTexture: Display: Building textures: T_Random_02 (BC4, 1024X1024)
+[2020.04.22-16.38.05:518][  0]LogStaticMesh: Building static mesh SM_KineticForce_01...
+[2020.04.22-16.38.05:524][  0]LogStaticMesh: Built static mesh [0.01s] /Game/VFX_Toolkit_V1/StaticMeshes/Spheres/SM_KineticForce_01.SM_KineticForce_01
+[2020.04.22-16.38.05:663][  0]LogTexture: Display: Building textures: T_MatraBoom_Mask2 (DXT1, 1024X1024)
+[2020.04.22-16.38.05:663][  0]LogTexture: Display: Building textures: T_NoiseNormal_54 (BC5, 1024X1024)
+[2020.04.22-16.38.05:663][  0]LogTexture: Display: Building textures: T_Meteora_Emissive_Map (DXT1, 2048X2048)
+[2020.04.22-16.38.05:663][  0]LogTexture: Display: Building textures: T_Meteora_01_RMA (DXT1, 2048X2048)
+[2020.04.22-16.38.05:663][  0]LogMaterial: Display: Missing cached shader map for material M_GenericRefraction_01, compiling. 
+[2020.04.22-16.38.06:604][  0]LogTexture: Display: Building textures: T_Meteora_01 (DXT1, 2048X2048)
+[2020.04.22-16.38.06:604][  0]LogTexture: Display: Building textures: T_NoiseNormal_21 (BC5, 1024X1024)
+[2020.04.22-16.38.06:604][  0]LogTexture: Display: Building textures: T_ArrowBurstCloud_01 (DXT1, 1024X1024)
+[2020.04.22-16.38.06:604][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 42
+[2020.04.22-16.38.06:604][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 37
+[2020.04.22-16.38.06:604][  0]LogTexture: Display: Building textures: T_Meteora_01_normal (BC5, 2048X2048)
+[2020.04.22-16.38.06:604][  0]LogTexture: Display: Building textures: T_NoiseNormal_2 (BC5, 512X512)
+[2020.04.22-16.38.06:604][  0]LogTexture: Display: Building textures: T_NoiseNormal_76 (BC5, 1024X1024)
+[2020.04.22-16.38.06:604][  0]LogTexture: Display: Building textures: T_MatraBoom_Mask1 (DXT1, 1024X1024)
+[2020.04.22-16.38.06:604][  0]LogTexture: Display: Building textures: T_SmokeFume_10_9_9_01 (AutoDXT, 4096X4096)
+[2020.04.22-16.38.06:604][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 32
+[2020.04.22-16.38.06:604][  0]LogMaterial: Display: Missing cached shader map for material M_burstClouds_01, compiling. 
+[2020.04.22-16.38.06:696][  0]LogStaticMesh: Building static mesh SM_RockDebris_03...
+[2020.04.22-16.38.06:697][  0]LogStaticMesh: Built static mesh [0.00s] /Game/VFX_Toolkit_V1/StaticMeshes/Debris/SM_RockDebris_03.SM_RockDebris_03
+[2020.04.22-16.38.08:842][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 115
+[2020.04.22-16.38.08:842][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 105
+[2020.04.22-16.38.08:842][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 95
+[2020.04.22-16.38.08:842][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 85
+[2020.04.22-16.38.08:843][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 75
+[2020.04.22-16.38.08:843][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 66
+[2020.04.22-16.38.08:843][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 58
+[2020.04.22-16.38.08:843][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 51
+[2020.04.22-16.38.08:843][  0]LogMaterial: Display: Missing cached shader map for material M_Meteora_01, compiling. 
+[2020.04.22-16.38.08:882][  0]LogMaterial: Display: Missing cached shader map for material M_Meteora_01, compiling. 
+[2020.04.22-16.38.08:917][  0]LogStaticMesh: Building static mesh SM_RockDebris_02...
+[2020.04.22-16.38.08:918][  0]LogStaticMesh: Built static mesh [0.00s] /Game/VFX_Toolkit_V1/StaticMeshes/Debris/SM_RockDebris_02.SM_RockDebris_02
+[2020.04.22-16.38.08:922][  0]LogStaticMesh: Building static mesh SM_RockDebris_01...
+[2020.04.22-16.38.08:922][  0]LogStaticMesh: Built static mesh [0.00s] /Game/VFX_Toolkit_V1/StaticMeshes/Debris/SM_RockDebris_01.SM_RockDebris_01
+[2020.04.22-16.38.08:929][  0]LogMaterial: Display: Missing cached shader map for material M_TriBlasterDots_01, compiling. 
+[2020.04.22-16.38.08:952][  0]LogMaterial: Display: Missing cached shader map for material M_Basic_Dots, compiling. 
+[2020.04.22-16.38.08:979][  0]LogMaterial: Display: Missing cached shader map for material M_MatraFlash_01, compiling. 
+[2020.04.22-16.38.09:003][  0]LogMaterial: Display: Missing cached shader map for material M_MatraFlash_01, compiling. 
+[2020.04.22-16.38.09:620][  0]LogMaterial: Display: Missing cached shader map for material M_MatraXplode_01, compiling. 
+[2020.04.22-16.38.09:649][  0]LogMaterial: Display: Missing cached shader map for material M_MatraCloud_01, compiling. 
+[2020.04.22-16.38.09:677][  0]LogMaterial: Display: Missing cached shader map for material M_MatraCoreSpark_01, compiling. 
+[2020.04.22-16.38.09:763][  0]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2020.04.22-16.38.09:763][  0]LogTemp: Warning: GameInstance Constructor
+[2020.04.22-16.38.09:848][  0]SourceControl: Source control is disabled
+[2020.04.22-16.38.09:849][  0]SourceControl: Source control is disabled
+[2020.04.22-16.38.09:858][  0]SourceControl: Source control is disabled
+[2020.04.22-16.38.09:863][  0]SourceControl: Source control is disabled
+[2020.04.22-16.38.09:868][  0]SourceControl: Source control is disabled
+[2020.04.22-16.38.10:194][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.22-16.38.10:228][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.22-16.38.10:228][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.22-16.38.10:441][  0]LogOcInput: OculusInput pre-init called
+[2020.04.22-16.38.10:461][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.22-16.38.10:461][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.22-16.38.10:611][  0]LogEngine: Initializing Engine...
+[2020.04.22-16.38.10:705][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.04.22-16.38.10:709][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2020.04.22-16.38.11:238][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.22-16.38.11:274][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.22-16.38.11:371][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.22-16.38.11:371][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.22-16.38.11:371][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.22-16.38.11:371][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.22-16.38.11:371][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.22-16.38.11:371][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.22-16.38.11:371][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.22-16.38.11:371][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.22-16.38.11:373][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.22-16.38.11:373][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.22-16.38.11:448][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.22-16.38.11:448][  0]LogAudioMixer: Display: Name: Headphones (3- Astro A50 Game)
+[2020.04.22-16.38.11:448][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.22-16.38.11:448][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.22-16.38.11:448][  0]LogAudioMixer: Display: Channel Count Used: 6
+[2020.04.22-16.38.11:448][  0]LogAudioMixer: Display: Device Channel Count: 6
+[2020.04.22-16.38.11:448][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.22-16.38.11:448][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.22-16.38.11:448][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.22-16.38.11:448][  0]LogAudioMixer: Display: 2: FrontCenter
+[2020.04.22-16.38.11:448][  0]LogAudioMixer: Display: 3: LowFrequency
+[2020.04.22-16.38.11:448][  0]LogAudioMixer: Display: 4: SideLeft
+[2020.04.22-16.38.11:448][  0]LogAudioMixer: Display: 5: SideRight
+[2020.04.22-16.38.11:497][  0]LogAudioMixer: Display: Using Audio Device Headphones (3- Astro A50 Game)
+[2020.04.22-16.38.11:514][  0]LogInit: FAudioDevice initialized.
+[2020.04.22-16.38.11:515][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.22-16.38.11:678][  0]LogDerivedDataCache: Saved boot cache 0.16s 148MB C:/Users/kyles/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.22-16.38.11:687][  0]LogInit: Texture streaming: Enabled
+[2020.04.22-16.38.11:714][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.22-16.38.11:714][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.22-16.38.11:716][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.22-16.38.11:995][  0]LogInit: Transaction tracking system initialized
+[2020.04.22-16.38.12:039][  0]BlueprintLog: New page: Editor Load
+[2020.04.22-16.38.12:175][  0]LocalizationService: Localization service is disabled
+[2020.04.22-16.38.12:415][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 337
+[2020.04.22-16.38.12:834][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 327
+[2020.04.22-16.38.12:834][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 317
+[2020.04.22-16.38.12:834][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Content/' took 0.01s
+[2020.04.22-16.38.12:834][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.22-16.38.12:835][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.22-16.38.13:240][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 307
+[2020.04.22-16.38.13:240][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 297
+[2020.04.22-16.38.13:871][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 287
+[2020.04.22-16.38.13:998][  0]SourceControl: Source control is disabled
+[2020.04.22-16.38.14:000][  0]Cmd: MAP LOAD FILE="../../../../../../Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Content/Levels/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.22-16.38.14:009][  0]LightingResults: New page: Lighting Build
+[2020.04.22-16.38.14:012][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.22-16.38.14:013][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.22-16.38.14:013][  0]MapCheck: New page: Map Check
+[2020.04.22-16.38.14:013][  0]LightingResults: New page: Lighting Build
+[2020.04.22-16.38.14:095][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.04.22-16.38.14:327][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Theme2...
+[2020.04.22-16.38.14:576][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/Menu/Theme2.Theme2 will be modified from 40 to 40.
+[2020.04.22-16.38.24:385][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 277
+[2020.04.22-16.38.24:386][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 267
+[2020.04.22-16.38.24:386][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 257
+[2020.04.22-16.38.24:386][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 247
+[2020.04.22-16.38.24:386][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 237
+[2020.04.22-16.38.24:386][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 227
+[2020.04.22-16.38.24:386][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 217
+[2020.04.22-16.38.24:386][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 207
+[2020.04.22-16.38.24:386][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 197
+[2020.04.22-16.38.24:386][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 187
+[2020.04.22-16.38.24:386][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 177
+[2020.04.22-16.38.24:386][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 167
+[2020.04.22-16.38.24:386][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 157
+[2020.04.22-16.38.24:386][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 147
+[2020.04.22-16.38.24:386][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 137
+[2020.04.22-16.38.24:386][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 85271040 while cooking SoundWave /Game/Audio/Menu/Theme2.Theme2.
+[2020.04.22-16.38.24:407][  0]LogAIModule: Creating AISystem for world MainMenuLevel
+[2020.04.22-16.38.24:503][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 127
+[2020.04.22-16.38.24:503][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 117
+[2020.04.22-16.38.24:503][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 107
+[2020.04.22-16.38.24:514][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.22-16.38.24:544][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.04.22-16.38.24:544][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.22-16.38.24:545][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.398ms to complete.
+[2020.04.22-16.38.24:545][  0]LogFileHelpers: Loading map 'MainMenuLevel' took 10.546
+[2020.04.22-16.38.24:753][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 97
+[2020.04.22-16.38.24:753][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.22-16.38.24:765][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.22-16.38.24:777][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.22-16.38.24:788][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.22-16.38.24:809][  0]LogCollectionManager: Loaded 0 collections in 0.002671 seconds
+[2020.04.22-16.38.24:847][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Collections/' took 0.00s
+[2020.04.22-16.38.24:847][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Content/Developers/kyles/Collections/' took 0.00s
+[2020.04.22-16.38.24:847][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Content/Collections/' took 0.00s
+[2020.04.22-16.38.24:847][  0]LogContentBrowser: Native class hierarchy populated in 0.0143 seconds. Added 3022 classes and 722 folders.
+[2020.04.22-16.38.24:856][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.04.22-16.38.25:359][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 87
+[2020.04.22-16.38.25:360][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.04.22-16.38.25:375][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 2 classes and 3 folders.
+[2020.04.22-16.38.25:450][  0]LogSlate: Took 0.010039 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.22-16.38.25:461][  0]LogSlate: Took 0.007699 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.22-16.38.25:476][  0]LogSlate: Took 0.008822 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.22-16.38.25:656][  0]LogRenderer: Reallocating scene render targets to support 2392x676 Format 10 NumSamples 1 (Frame:1).
+[2020.04.22-16.38.25:980][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 77
+[2020.04.22-16.38.25:990][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.04.22-16.38.25:990][  0]LogLoad: (Engine Initialization) Total time: 64.62 seconds
+[2020.04.22-16.38.25:990][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.22-16.38.26:003][  0]LogRawInputWindows: Warning: Found device 9 devices
+[2020.04.22-16.38.26:003][  0]LogRawInputWindows: Warning: Found device 9 devices
+[2020.04.22-16.38.26:003][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2020.04.22-16.38.26:003][  0]LogRawInputWindows: Warning: Found device 9 devices
+[2020.04.22-16.38.26:003][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2020.04.22-16.38.26:060][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.22-16.38.26:131][  0]LogSlate: Took 0.008428 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.22-16.38.26:173][  1]LogAssetRegistry: Asset discovery search completed in 25.7505 seconds
+[2020.04.22-16.38.26:181][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000015 seconds (updated 0 objects)
+[2020.04.22-16.38.26:933][ 78]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 68
+[2020.04.22-16.38.27:559][108]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 59
+[2020.04.22-16.38.28:436][206]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 51
+[2020.04.22-16.38.28:882][253]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 44
+[2020.04.22-16.38.29:070][273]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 38
+[2020.04.22-16.38.29:296][298]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 33
+[2020.04.22-16.38.29:742][347]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 28
+[2020.04.22-16.38.30:854][469]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 24
+[2020.04.22-16.38.31:189][506]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2020.04.22-16.38.31:294][517]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2020.04.22-16.38.31:684][561]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2020.04.22-16.38.31:864][582]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2020.04.22-16.38.31:915][588]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2020.04.22-16.38.32:192][620]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2020.04.22-16.38.32:237][623]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.04.22-16.38.32:298][630]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2020.04.22-16.38.32:356][635]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2020.04.22-16.38.32:374][637]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2020.04.22-16.38.32:393][639]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.04.22-16.38.32:590][660]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.04.22-16.39.18:362][471]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.22-16.39.18:389][471]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\kyles\OneDrive\Documents\blowtorch.obj)
+[2020.04.22-16.39.18:414][471]LogFbx: Loading FBX Scene from C:\Users\kyles\OneDrive\Documents\blowtorch.obj
+[2020.04.22-16.39.18:459][471]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.22-16.39.20:109][471]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.22-16.39.20:268][471]LogMaterial: Display: Missing cached shader map for material initialShadingGroup, compiling. 
+[2020.04.22-16.39.20:277][471]LogFbx: Display: Triangulating static mesh pCube1
+[2020.04.22-16.39.20:504][471]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.04.22-16.39.20:505][471]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.04.22-16.39.20:505][471]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.04.22-16.39.20:505][471]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.04.22-16.39.20:505][471]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.04.22-16.39.20:505][471]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.04.22-16.39.20:505][471]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.04.22-16.39.20:505][471]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.04.22-16.39.20:508][471]LogStaticMesh: Building static mesh blowtorch...
+[2020.04.22-16.39.20:591][471]LogStaticMesh: Built static mesh [0.08s] /Game/Engineer/blowtorch.blowtorch
+[2020.04.22-16.39.22:125][598]LogActorFactory: Actor Factory created blowtorch
+[2020.04.22-16.39.22:309][619]LogActorFactory: Actor Factory created blowtorch
+[2020.04.22-16.39.26:004][ 38]Cmd: DELETE
+[2020.04.22-16.39.26:004][ 38]Cmd: ACTOR DELETE
+[2020.04.22-16.39.26:010][ 38]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.22-16.39.26:036][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.04.22-16.39.26:036][ 38]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.04.22-16.39.34:510][226]LogStaticMesh: Building static mesh 1M_Cube...
+[2020.04.22-16.39.34:572][226]LogStaticMesh: Built static mesh [0.06s] /Game/StaticMeshes/1M_Cube.1M_Cube
+[2020.04.22-16.39.34:589][226]LogMaterial: Display: Missing cached shader map for material Active, compiling. 
+[2020.04.22-16.39.34:623][227]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.04.22-16.39.34:623][227]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.04.22-16.39.34:623][227]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.04.22-16.39.34:623][227]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.04.22-16.39.34:623][227]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.04.22-16.39.34:623][227]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.04.22-16.39.34:623][227]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.04.22-16.39.34:623][227]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.04.22-16.39.36:229][288]PIE: Warning: Constraint in '/Engine/Transient.World_2:PersistentLevel.Button_C_0.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2020.04.22-16.39.50:499][363]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\kyles\OneDrive\Documents\Gun.obj)
+[2020.04.22-16.39.50:506][363]LogFbx: Loading FBX Scene from C:\Users\kyles\OneDrive\Documents\Gun.obj
+[2020.04.22-16.39.50:559][363]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.22-16.39.52:532][363]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.22-16.39.52:558][363]LogMaterial: Display: Missing cached shader map for material lambert2SG, compiling. 
+[2020.04.22-16.39.52:567][363]LogFbx: Display: Triangulating static mesh polySurface7
+[2020.04.22-16.39.52:570][363]LogStaticMesh: Building static mesh Gun_polySurface7...
+[2020.04.22-16.39.52:572][363]LogStaticMesh: Built static mesh [0.00s] /Game/Engineer/Gun_polySurface7.Gun_polySurface7
+[2020.04.22-16.39.52:579][363]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.04.22-16.39.52:579][363]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.04.22-16.39.52:579][363]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.04.22-16.39.52:579][363]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.04.22-16.39.52:579][363]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.04.22-16.39.52:579][363]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.04.22-16.39.52:579][363]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.04.22-16.39.52:579][363]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.04.22-16.39.52:581][363]LogFbx: Display: Triangulating static mesh set4_polySurface7
+[2020.04.22-16.39.52:920][363]LogStaticMesh: Building static mesh Gun_set4_polySurface7...
+[2020.04.22-16.39.53:029][363]LogStaticMesh: Built static mesh [0.11s] /Game/Engineer/Gun_set4_polySurface7.Gun_set4_polySurface7
+[2020.04.22-16.39.53:077][363]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.22-16.39.55:501][620]LogSlate: Window 'Message Log' being destroyed
+[2020.04.22-16.39.55:504][620]LogSlate: Window 'Message Log' being destroyed
+[2020.04.22-16.39.58:699][982]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Engineer/Gun_set4_polySurface7.Gun_set4_polySurface7
+[2020.04.22-16.39.59:109][982]LogRenderer: Reallocating scene render targets to support 2872x1040 Format 10 NumSamples 1 (Frame:1).
+[2020.04.22-16.39.59:109][982]LogSlate: Took 0.004426 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.22-16.40.02:810][256]LogSlate: Window 'Gun_set4_polySurface7' being destroyed
+[2020.04.22-16.40.02:814][256]LogSlate: Window 'Gun_set4_polySurface7' being destroyed
+[2020.04.22-16.40.02:822][256]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.04.22-16.40.02:822][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.22-16.40.07:123][476]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\kyles\OneDrive\Documents\Hammer.fbx)
+[2020.04.22-16.40.07:134][476]LogFbx: Loading FBX Scene from C:\Users\kyles\OneDrive\Documents\Hammer.fbx
+[2020.04.22-16.40.07:142][476]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.22-16.40.08:726][476]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.22-16.40.08:746][476]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.04.22-16.40.08:756][476]LogFbx: Display: Triangulating static mesh pCube4
+[2020.04.22-16.40.08:803][476]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.04.22-16.40.08:803][476]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.04.22-16.40.08:803][476]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.04.22-16.40.08:803][476]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.04.22-16.40.08:803][476]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.04.22-16.40.08:803][476]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.04.22-16.40.08:803][476]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.04.22-16.40.08:803][476]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.04.22-16.40.08:805][476]LogStaticMesh: Building static mesh Hammer...
+[2020.04.22-16.40.08:831][476]LogStaticMesh: Built static mesh [0.03s] /Game/Engineer/Hammer.Hammer
+[2020.04.22-16.40.12:736][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.04.22-16.40.12:777][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.04.22-16.40.12:898][863]LogSavePackage: Moving '../../../../../../Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/MainMenuLevelC18CD1854DCB823B7C45FFA7049F2C4D.tmp' to '../../../../../../Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Content/Levels/MainMenuLevel.umap'
+[2020.04.22-16.40.12:917][863]LogFileHelpers: Saving map 'MainMenuLevel' took 0.163
+[2020.04.22-16.40.12:949][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Engineer/blowtorch" FILE="../../../../../../Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Content/Engineer/blowtorch.uasset" SILENT=true
+[2020.04.22-16.40.12:978][863]LogSavePackage: Moving '../../../../../../Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/blowtorchFC556B3143588FB8A82BDFA75D2C9226.tmp' to '../../../../../../Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Content/Engineer/blowtorch.uasset'
+[2020.04.22-16.40.13:014][863]LogSavePackage: Moving '../../../../../../Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/initialShadingGroupB22BD60F4C4BB08877FEBA86CEFC0B98.tmp' to '../../../../../../Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Content/Engineer/initialShadingGroup.uasset'
+[2020.04.22-16.40.13:038][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Engineer/lambert1" FILE="../../../../../../Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Content/Engineer/lambert1.uasset" SILENT=true
+[2020.04.22-16.40.13:049][863]LogSavePackage: Moving '../../../../../../Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/lambert10A9B70104C31431BCC1FD9B111BAA895.tmp' to '../../../../../../Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Content/Engineer/lambert1.uasset'
+[2020.04.22-16.40.13:086][863]LogSavePackage: Moving '../../../../../../Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Gun_polySurface703CB558D49E9DC12A24F9FBC3DC8A1F0.tmp' to '../../../../../../Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Content/Engineer/Gun_polySurface7.uasset'
+[2020.04.22-16.40.13:110][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Engineer/lambert2SG" FILE="../../../../../../Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Content/Engineer/lambert2SG.uasset" SILENT=true
+[2020.04.22-16.40.13:121][863]LogSavePackage: Moving '../../../../../../Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/lambert2SGE294536445AFD37A37EA8788F5E39BC1.tmp' to '../../../../../../Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Content/Engineer/lambert2SG.uasset'
+[2020.04.22-16.40.13:178][863]LogSavePackage: Moving '../../../../../../Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Gun_set4_polySurface74556671B4C4235A8D9D8B8A0114B6C57.tmp' to '../../../../../../Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Content/Engineer/Gun_set4_polySurface7.uasset'
+[2020.04.22-16.40.13:205][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Engineer/Hammer" FILE="../../../../../../Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Content/Engineer/Hammer.uasset" SILENT=true
+[2020.04.22-16.40.13:220][863]LogSavePackage: Moving '../../../../../../Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/HammerA5B71172452BBF97EBE489BB558BE79D.tmp' to '../../../../../../Users/kyles/OneDrive/Documents/GitHub/Project-Exodus/ProjectExodus/Content/Engineer/Hammer.uasset'
+[2020.04.22-16.40.13:245][863]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.22-16.40.13:245][863]LogContentValidation: Display: Validating World /Game/Levels/MainMenuLevel.MainMenuLevel
+[2020.04.22-16.40.13:245][863]LogContentValidation: Display: Validating StaticMesh /Game/Engineer/blowtorch.blowtorch
+[2020.04.22-16.40.13:245][863]LogContentValidation: Display: Validating Material /Game/Engineer/initialShadingGroup.initialShadingGroup
+[2020.04.22-16.40.13:245][863]LogContentValidation: Display: Validating Material /Game/Engineer/lambert1.lambert1
+[2020.04.22-16.40.13:246][863]LogContentValidation: Display: Validating StaticMesh /Game/Engineer/Gun_polySurface7.Gun_polySurface7
+[2020.04.22-16.40.13:246][863]LogContentValidation: Display: Validating Material /Game/Engineer/lambert2SG.lambert2SG
+[2020.04.22-16.40.13:246][863]LogContentValidation: Display: Validating StaticMesh /Game/Engineer/Gun_set4_polySurface7.Gun_set4_polySurface7
+[2020.04.22-16.40.13:246][863]LogContentValidation: Display: Validating StaticMesh /Game/Engineer/Hammer.Hammer
