@@ -1,0 +1,1200 @@
+﻿Log file open, 05/02/20 10:50:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ProjectExodus
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.063031
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogHMD: Failed initializing OVRPlugin 1.40.0
+LogInit: Build: ++UE4+Release-4.24-CL-11100242
+LogInit: Engine Version: 4.24.2-11100242+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Jan 24 2020 02:05:53
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: J:/epic/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.02-09.50.22:286][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.02-09.50.22:286][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.02-09.50.22:286][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Engine.ini]
+[2020.05.02-09.50.22:286][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.02-09.50.22:286][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Engine.ini]
+[2020.05.02-09.50.22:286][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Engine.ini]
+[2020.05.02-09.50.22:286][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.02-09.50.22:286][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.02-09.50.22:287][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.02-09.50.22:287][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.02-09.50.22:287][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.02-09.50.22:287][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.02-09.50.22:287][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.02-09.50.22:287][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.02-09.50.22:287][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.02-09.50.22:287][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.02-09.50.22:287][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.02-09.50.22:287][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.02-09.50.22:287][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.02-09.50.22:287][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.05.02-09.50.22:287][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Engine.ini]
+[2020.05.02-09.50.22:287][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.02-09.50.22:287][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.02-09.50.22:287][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.02-09.50.22:287][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.02-09.50.22:287][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.02-09.50.22:287][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.02-09.50.22:287][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.05.02-09.50.22:287][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.02-09.50.22:287][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.02-09.50.22:287][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.02-09.50.22:287][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.02-09.50.22:287][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.02-09.50.22:287][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.02-09.50.22:287][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Engine.ini]
+[2020.05.02-09.50.22:287][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Engine.ini]
+[2020.05.02-09.50.22:296][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-09.50.22:296][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.02-09.50.22:296][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.02-09.50.22:296][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-09.50.22:296][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.02-09.50.22:296][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-09.50.22:296][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.02-09.50.22:296][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.02-09.50.22:296][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.02-09.50.22:296][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.02-09.50.22:296][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.02-09.50.22:296][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.02-09.50.22:296][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.02-09.50.22:296][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.02-09.50.22:296][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.02-09.50.22:296][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.02-09.50.22:296][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.02-09.50.22:296][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.02-09.50.22:296][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.02-09.50.22:296][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.02-09.50.22:296][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.02-09.50.22:296][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.02-09.50.22:296][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.02-09.50.22:296][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.02-09.50.22:296][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-09.50.22:296][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.02-09.50.22:296][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.02-09.50.22:296][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.02-09.50.22:296][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.02-09.50.22:296][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.02-09.50.22:296][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.02-09.50.22:296][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.02-09.50.22:296][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.02-09.50.22:296][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.02-09.50.22:296][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.02-09.50.22:297][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.02-09.50.22:297][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.02-09.50.22:297][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.02-09.50.22:299][  0]LogHAL: Display: Platform has ~ 16 GB [17137152000 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.02-09.50.22:299][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.02-09.50.22:299][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.02-09.50.22:299][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.02-09.50.22:300][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Config/Windows/Engine.ini]
+[2020.05.02-09.50.22:300][  0]LogInit: Computer: DESKTOP-AF23D8D
+[2020.05.02-09.50.22:300][  0]LogInit: User: Jason
+[2020.05.02-09.50.22:300][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.05.02-09.50.22:300][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.02-09.50.22:300][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.05.02-09.50.22:301][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.02-09.50.22:301][  0]LogMemory: Process Physical Memory: 108.63 MB used, 108.64 MB peak
+[2020.05.02-09.50.22:301][  0]LogMemory: Process Virtual Memory: 104.43 MB used, 104.43 MB peak
+[2020.05.02-09.50.22:301][  0]LogMemory: Physical Memory: 7128.11 MB used,  9215.16 MB free, 16343.26 MB total
+[2020.05.02-09.50.22:301][  0]LogMemory: Virtual Memory: 5178.86 MB used,  134212552.00 MB free, 134217728.00 MB total
+[2020.05.02-09.50.22:303][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.02-09.50.22:315][  0]LogInit: Using OS detected language (en-US).
+[2020.05.02-09.50.22:315][  0]LogInit: Using OS detected locale (en-GB).
+[2020.05.02-09.50.22:315][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.05.02-09.50.22:439][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.02-09.50.22:471][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.02-09.50.22:471][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.02-09.50.22:593][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.05.02-09.50.22:593][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.05.02-09.50.22:593][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.05.02-09.50.22:593][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.02-09.50.22:638][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2020.05.02-09.50.22:638][  0]LogD3D11RHI:       4043/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2020.05.02-09.50.22:640][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.02-09.50.22:640][  0]LogD3D11RHI:       0/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.02-09.50.22:640][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.02-09.50.22:646][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.02-09.50.22:646][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.02-09.50.22:646][  0]LogWindows: EnumDisplayDevices:
+[2020.05.02-09.50.22:646][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2020.05.02-09.50.22:646][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2020.05.02-09.50.22:647][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2020.05.02-09.50.22:647][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2020.05.02-09.50.22:647][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.05.02-09.50.22:647][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2020.05.02-09.50.22:647][  0]LogD3D11RHI:   Driver Version: 442.59 (internal:26.21.14.4259, unified:442.59)
+[2020.05.02-09.50.22:647][  0]LogD3D11RHI:      Driver Date: 3-4-2020
+[2020.05.02-09.50.22:647][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2020.05.02-09.50.22:682][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.05.02-09.50.22:682][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.02-09.50.22:710][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.02-09.50.22:978][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.05.02-09.50.23:001][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.05.02-09.50.23:001][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.05.02-09.50.23:001][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.05.02-09.50.23:001][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.05.02-09.50.23:001][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.05.02-09.50.23:001][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.05.02-09.50.23:001][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.05.02-09.50.23:001][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.05.02-09.50.23:001][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.05.02-09.50.23:001][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.02-09.50.23:001][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.05.02-09.50.23:001][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.05.02-09.50.23:001][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.02-09.50.23:001][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.02-09.50.23:001][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.02-09.50.23:001][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.02-09.50.23:001][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.05.02-09.50.23:001][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.05.02-09.50.23:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.05.02-09.50.23:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.05.02-09.50.23:020][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.02-09.50.23:026][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.05.02-09.50.23:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.05.02-09.50.23:037][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.05.02-09.50.23:043][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.05.02-09.50.23:048][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.05.02-09.50.23:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.05.02-09.50.23:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.05.02-09.50.23:076][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.05.02-09.50.23:076][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.05.02-09.50.23:081][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.02-09.50.23:087][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.05.02-09.50.23:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.05.02-09.50.23:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.05.02-09.50.23:098][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.02-09.50.23:100][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.02-09.50.23:113][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Intermediate/Shaders/WorkingDirectory/4068/).
+[2020.05.02-09.50.23:113][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jason/AppData/Local/Temp/UnrealShaderWorkingDir/2AEB9BAB437A6194E6323290D04328E5/'.
+[2020.05.02-09.50.23:113][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.02-09.50.23:113][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.02-09.50.23:113][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.02-09.50.23:651][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.02-09.50.23:701][  0]LogDerivedDataCache: Loaded boot cache 0.05s 86MB C:/Users/Jason/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.02-09.50.23:701][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jason/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.05.02-09.50.23:701][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.02-09.50.23:701][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.02-09.50.23:701][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.02-09.50.23:701][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.02-09.50.23:709][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.02-09.50.23:709][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.02-09.50.23:709][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.02-09.50.23:710][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jason/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.02-09.50.23:710][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.02-09.50.23:710][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.02-09.50.23:729][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.02-09.50.23:731][  0]LogSlate: Using FreeType 2.10.0
+[2020.05.02-09.50.23:732][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.02-09.50.23:768][  0]LogAssetRegistry: FAssetRegistry took 0.0019 seconds to start up
+[2020.05.02-09.50.23:986][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.02-09.50.24:114][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.02-09.50.24:114][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.02-09.50.24:114][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.02-09.50.24:114][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.02-09.50.24:114][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.02-09.50.24:131][  0]LogNetVersion: ProjectExodus 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3289163539)
+[2020.05.02-09.50.24:926][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.036494 seconds
+[2020.05.02-09.50.24:933][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.05.02-09.50.24:933][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.05.02-09.50.24:933][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.02-09.50.25:243][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.02-09.50.25:245][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.02-09.50.25:858][  0]LogTemp: Warning: GameInstance Constructor
+[2020.05.02-09.50.25:876][  0]SourceControl: Source control is disabled
+[2020.05.02-09.50.25:876][  0]SourceControl: Source control is disabled
+[2020.05.02-09.50.25:877][  0]SourceControl: Source control is disabled
+[2020.05.02-09.50.25:878][  0]SourceControl: Source control is disabled
+[2020.05.02-09.50.25:878][  0]SourceControl: Source control is disabled
+[2020.05.02-09.50.25:999][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.02-09.50.26:008][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.02-09.50.26:008][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.02-09.50.26:077][  0]LogOcInput: OculusInput pre-init called
+[2020.05.02-09.50.26:535][  0]LogEngine: Initializing Engine...
+[2020.05.02-09.50.26:579][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.05.02-09.50.26:580][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.02-09.50.26:855][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.02-09.50.26:860][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.02-09.50.26:877][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.02-09.50.26:877][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.02-09.50.26:877][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.02-09.50.26:877][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.02-09.50.26:877][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.02-09.50.26:877][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.02-09.50.26:877][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.02-09.50.26:877][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.02-09.50.26:877][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.02-09.50.26:877][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.02-09.50.26:907][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.02-09.50.26:907][  0]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.05.02-09.50.26:907][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.05.02-09.50.26:907][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.02-09.50.26:907][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.02-09.50.26:907][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.02-09.50.26:907][  0]LogAudioMixer: Display: Channel Order:
+[2020.05.02-09.50.26:907][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.02-09.50.26:907][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.05.02-09.50.26:932][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.05.02-09.50.26:937][  0]LogInit: FAudioDevice initialized.
+[2020.05.02-09.50.26:937][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.02-09.50.27:115][  0]LogDerivedDataCache: Saved boot cache 0.18s 86MB C:/Users/Jason/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.02-09.50.27:118][  0]LogInit: Texture streaming: Enabled
+[2020.05.02-09.50.27:125][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.02-09.50.27:125][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.05.02-09.50.27:126][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.05.02-09.50.27:184][  0]LogInit: Transaction tracking system initialized
+[2020.05.02-09.50.27:191][  0]BlueprintLog: New page: Editor Load
+[2020.05.02-09.50.27:214][  0]LocalizationService: Localization service is disabled
+[2020.05.02-09.50.27:241][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2020.05.02-09.50.27:241][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2020.05.02-09.50.27:241][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2020.05.02-09.50.27:479][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.02-09.50.27:479][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.02-09.50.27:532][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Content/' took 0.01s
+[2020.05.02-09.50.27:935][  0]SourceControl: Source control is disabled
+[2020.05.02-09.50.27:935][  0]Cmd: MAP LOAD FILE="C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Content/Levels/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.02-09.50.27:941][  0]LightingResults: New page: Lighting Build
+[2020.05.02-09.50.27:942][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-09.50.27:942][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-09.50.27:942][  0]MapCheck: New page: Map Check
+[2020.05.02-09.50.27:942][  0]LightingResults: New page: Lighting Build
+[2020.05.02-09.50.27:961][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.05.02-09.50.28:243][  0]LogAIModule: Creating AISystem for world MainMenuLevel
+[2020.05.02-09.50.28:266][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.02-09.50.28:288][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.05.02-09.50.28:288][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.02-09.50.28:288][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.109ms to complete.
+[2020.05.02-09.50.28:288][  0]LogFileHelpers: Loading map 'MainMenuLevel' took 0.354
+[2020.05.02-09.50.29:184][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-09.50.29:245][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-09.50.29:250][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-09.50.29:255][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-09.50.29:370][  0]LogCollectionManager: Loaded 0 collections in 0.000647 seconds
+[2020.05.02-09.50.29:596][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Collections/' took 0.00s
+[2020.05.02-09.50.29:596][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Content/Developers/Jason/Collections/' took 0.00s
+[2020.05.02-09.50.29:596][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Content/Collections/' took 0.00s
+[2020.05.02-09.50.29:596][  0]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 3024 classes and 725 folders.
+[2020.05.02-09.50.29:689][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.02-09.50.30:862][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.02-09.50.30:900][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.05.02-09.50.32:063][  0]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.02-09.50.32:073][  0]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.02-09.50.32:115][  0]LogSlate: Took 0.016722 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.02-09.50.32:338][  0]LogRenderer: Reallocating scene render targets to support 728x536 Format 10 NumSamples 1 (Frame:1).
+[2020.05.02-09.50.32:563][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.02-09.50.32:563][  0]LogLoad: (Engine Initialization) Total time: 11.54 seconds
+[2020.05.02-09.50.32:563][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.02-09.50.32:574][  0]LogRawInputWindows: Warning: Found device 12 devices
+[2020.05.02-09.50.32:574][  0]LogRawInputWindows: Warning: Found device 12 devices
+[2020.05.02-09.50.32:574][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2020.05.02-09.50.32:575][  0]LogRawInputWindows: Warning: Found device 12 devices
+[2020.05.02-09.50.32:575][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2020.05.02-09.50.32:587][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.02-09.50.32:714][  0]LogSlate: Took 0.035555 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.02-09.50.43:200][251]LogAssetRegistry: Asset discovery search completed in 19.4332 seconds
+[2020.05.02-09.50.43:203][251]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2020.05.02-09.51.05:148][799]LogRenderer: Reallocating scene render targets to support 1100x572 Format 10 NumSamples 1 (Frame:3802).
+[2020.05.02-09.51.13:336][753]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.02-09.51.13:562][753]LogBlueprint: Warning: [Compiler RightHand_AnimBP] Could not find a variable named "Hand" in 'RightHand_AnimBP'.
+Make sure 'RightHand_AnimBP' has been compiled for  Get Hand
+[2020.05.02-09.51.13:873][753]LogStaticMesh: Building static mesh Cockpit_polySurface254...
+[2020.05.02-09.51.13:980][753]LogStaticMesh: Built static mesh [0.12s] /Game/StaticMeshes/Cockpit_polySurface254.Cockpit_polySurface254
+[2020.05.02-09.51.14:021][753]LogStaticMesh: Building static mesh Cockpit_polySurface548...
+[2020.05.02-09.51.14:081][753]LogStaticMesh: Built static mesh [0.06s] /Game/StaticMeshes/Cockpit_polySurface548.Cockpit_polySurface548
+[2020.05.02-09.51.14:088][753]LogStaticMesh: Building static mesh Cockpit_pPlane5...
+[2020.05.02-09.51.14:091][753]LogStaticMesh: Built static mesh [0.00s] /Game/StaticMeshes/Cockpit_pPlane5.Cockpit_pPlane5
+[2020.05.02-09.51.16:091][753]LogAIModule: Creating AISystem for world LevelOne
+[2020.05.02-09.51.16:512][753]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/LevelOne.LevelOne
+[2020.05.02-09.51.16:553][753]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.05.02-09.51.16:570][753]Cmd: MAP LOAD FILE="C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Content/Levels/LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.02-09.51.16:570][753]LightingResults: New page: Lighting Build
+[2020.05.02-09.51.16:570][753]LoadErrors: New page: Loading map: LevelOne.umap
+[2020.05.02-09.51.16:581][753]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-09.51.16:581][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-09.51.16:581][753]MapCheck: New page: Map Check
+[2020.05.02-09.51.16:581][753]LightingResults: New page: Lighting Build
+[2020.05.02-09.51.16:601][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.05.02-09.51.16:715][753]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.02-09.51.16:736][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.05.02-09.51.16:755][753]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.02-09.51.16:756][753]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.124ms to complete.
+[2020.05.02-09.51.16:756][753]LogFileHelpers: Loading map 'LevelOne' took 0.194
+[2020.05.02-09.51.20:162][ 90]Cmd: EDIT COPY
+[2020.05.02-09.51.20:615][131]Cmd: EDIT COPY
+[2020.05.02-09.51.20:961][165]Cmd: EDIT COPY
+[2020.05.02-09.51.22:323][295]LogAIModule: Creating AISystem for world MainMenuLevel
+[2020.05.02-09.51.22:324][295]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenuLevel.MainMenuLevel
+[2020.05.02-09.51.22:345][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.05.02-09.51.22:347][295]Cmd: MAP LOAD FILE="C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Content/Levels/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.02-09.51.22:347][295]LightingResults: New page: Lighting Build
+[2020.05.02-09.51.22:347][295]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2020.05.02-09.51.22:348][295]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-09.51.22:348][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-09.51.22:349][295]MapCheck: New page: Map Check
+[2020.05.02-09.51.22:349][295]LightingResults: New page: Lighting Build
+[2020.05.02-09.51.22:370][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.05.02-09.51.22:426][295]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.02-09.51.22:447][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.05.02-09.51.22:468][295]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.02-09.51.22:468][295]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.108ms to complete.
+[2020.05.02-09.51.22:468][295]LogFileHelpers: Loading map 'MainMenuLevel' took 0.121
+[2020.05.02-09.51.23:478][405]Cmd: EDIT PASTE
+[2020.05.02-09.51.26:835][740]Cmd: POLY SELECT MEMORY UNION
+[2020.05.02-09.51.29:589][ 41]Cmd: DELETE
+[2020.05.02-09.51.29:589][ 41]Cmd: ACTOR DELETE
+[2020.05.02-09.51.29:626][ 41]LogEditorActor: Deleted Actor: FlyingPawn_C
+[2020.05.02-09.51.29:670][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.05.02-09.51.29:671][ 41]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2020.05.02-09.51.32:254][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2020.05.02-09.51.32:926][408]Cmd: DELETE
+[2020.05.02-09.51.32:926][408]Cmd: ACTOR DELETE
+[2020.05.02-09.51.32:927][408]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.02-09.51.32:947][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.05.02-09.51.32:948][408]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2020.05.02-09.51.37:285][911]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.02-09.51.37:296][911]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2020.05.02-09.51.37:296][911]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.02-09.51.37:307][911]PIE: New page: PIE session: MainMenuLevel (2 May 2020, 11:51:37)
+[2020.05.02-09.51.37:314][911]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.05.02-09.51.37:322][911]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.05.02-09.51.37:322][911]LogTemp: Warning: GameInstance Constructor
+[2020.05.02-09.51.37:322][911]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2020.05.02-09.51.37:327][911]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004604s)
+[2020.05.02-09.51.37:328][911]LogAIModule: Creating AISystem for world MainMenuLevel
+[2020.05.02-09.51.37:328][911]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2020.05.02-09.51.37:328][911]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.005642s)
+[2020.05.02-09.51.37:347][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.05.02-09.51.37:347][911]LogTemp: Warning: GameInstance Init
+[2020.05.02-09.51.37:347][911]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.02-09.51.37:347][911]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.02-09.51.37:347][911]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.02-09.51.37:347][911]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.02-09.51.37:347][911]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.02-09.51.37:347][911]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.02-09.51.37:347][911]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.02-09.51.37:347][911]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.02-09.51.37:348][911]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.02-09.51.37:348][911]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.02-09.51.37:370][911]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.02-09.51.37:370][911]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.05.02-09.51.37:370][911]LogAudioMixer: Display: Is Default: Yes
+[2020.05.02-09.51.37:370][911]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.02-09.51.37:370][911]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.02-09.51.37:370][911]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.02-09.51.37:370][911]LogAudioMixer: Display: Channel Order:
+[2020.05.02-09.51.37:370][911]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.02-09.51.37:370][911]LogAudioMixer: Display: 1: FrontRight
+[2020.05.02-09.51.37:384][911]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.05.02-09.51.37:385][911]LogInit: FAudioDevice initialized.
+[2020.05.02-09.51.37:393][911]LogLoad: Game class is 'MainMeunGameMode_C'
+[2020.05.02-09.51.37:408][911]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2020.05.02-10.51.37
+[2020.05.02-09.51.37:408][911]LogWorld: Bringing up level for play took: 0.001415
+[2020.05.02-09.51.37:408][911]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2020.05.02-09.51.37:447][911]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.05.02-09.51.37:481][911]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenuLevel -0.403
+[2020.05.02-09.51.37:481][911]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2020.05.02-09.51.39:176][100]LogGameMode: ProcessServerTravel: /Game/Levels/LevelOne
+[2020.05.02-09.51.39:178][100]LogEngine: Server switch level: /Game/Levels/LevelOne
+[2020.05.02-09.51.39:178][100]LogNet: Browse: /Game/Levels/LevelOne
+[2020.05.02-09.51.39:202][100]LogLoad: LoadMap: /Game/Levels/LevelOne
+[2020.05.02-09.51.39:202][100]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2020.05.02-09.51.39:202][100]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-09.51.39:203][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-09.51.39:216][100]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.02-09.51.39:236][100]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.02-09.51.39:255][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.05.02-09.51.39:276][100]LogAIModule: Creating AISystem for world LevelOne
+[2020.05.02-09.51.39:276][100]LogLoad: Game class is 'GameModeBase'
+[2020.05.02-09.51.39:284][100]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2020.05.02-10.51.39
+[2020.05.02-09.51.39:284][100]LogWorld: Bringing up level for play took: 0.007248
+[2020.05.02-09.51.39:284][100]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.05.02-09.51.39:284][100]LogLoad: Took 0.082850 seconds to LoadMap(/Game/Levels/LevelOne)
+[2020.05.02-09.51.41:188][326]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.02-09.51.41:196][326]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.02-09.51.41:216][326]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.02-09.51.41:216][326]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2020.05.02-09.51.41:216][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-09.51.41:216][326]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2020.05.02-09.51.41:217][326]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.02-09.51.41:217][326]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-09.51.41:217][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-09.51.41:227][326]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.02-09.51.41:227][326]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2020.05.02-09.51.41:229][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-09.51.41:247][326]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.02-09.51.41:250][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-09.51.41:252][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.05.02-09.51.41:306][328]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.05.02-09.51.42:272][444]Cmd: POLY SELECT MEMORY UNION
+[2020.05.02-09.51.44:293][665]Cmd: POLY SELECT MEMORY UNION
+[2020.05.02-09.52.04:647][ 19]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menus/MainMenuContent/MainMenu.MainMenu
+[2020.05.02-09.52.04:884][ 19]LogEnum: Warning: Enum name collision: 'GripEnum::NewEnumerator0' is in both '/Game/Engineer/VirtualRealityBP/Blueprints/GripEnum.GripEnum' and '/Game/Menus/VirtualRealityBP/Blueprints/GripEnum.GripEnum'
+[2020.05.02-09.52.04:884][ 19]LogEnum: Warning: Enum name collision: 'GripEnum::NewEnumerator1' is in both '/Game/Engineer/VirtualRealityBP/Blueprints/GripEnum.GripEnum' and '/Game/Menus/VirtualRealityBP/Blueprints/GripEnum.GripEnum'
+[2020.05.02-09.52.04:884][ 19]LogEnum: Warning: Enum name collision: 'GripEnum::NewEnumerator2' is in both '/Game/Engineer/VirtualRealityBP/Blueprints/GripEnum.GripEnum' and '/Game/Menus/VirtualRealityBP/Blueprints/GripEnum.GripEnum'
+[2020.05.02-09.52.04:884][ 19]LogEnum: Warning: Enum name collision: 'GripEnum::GripEnum_MAX' is in both '/Game/Engineer/VirtualRealityBP/Blueprints/GripEnum.GripEnum' and '/Game/Menus/VirtualRealityBP/Blueprints/GripEnum.GripEnum'
+[2020.05.02-09.52.04:884][ 19]LogEnum: Warning: Enum name collision: 'GripEnum::NewEnumerator0' is in both '/Game/Engineer/VirtualRealityBP/Blueprints/GripEnum.GripEnum' and '/Game/Menus/VirtualRealityBP/Blueprints/GripEnum.GripEnum'
+[2020.05.02-09.52.04:884][ 19]LogEnum: Warning: Enum name collision: 'GripEnum::NewEnumerator1' is in both '/Game/Engineer/VirtualRealityBP/Blueprints/GripEnum.GripEnum' and '/Game/Menus/VirtualRealityBP/Blueprints/GripEnum.GripEnum'
+[2020.05.02-09.52.04:884][ 19]LogEnum: Warning: Enum name collision: 'GripEnum::NewEnumerator2' is in both '/Game/Engineer/VirtualRealityBP/Blueprints/GripEnum.GripEnum' and '/Game/Menus/VirtualRealityBP/Blueprints/GripEnum.GripEnum'
+[2020.05.02-09.52.04:979][ 19]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.05.02-09.52.06:388][ 19]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.02-09.52.16:774][133]LogSlate: Took 0.033992 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.02-09.52.17:791][245]LogSlate: Window 'MainMenu' being destroyed
+[2020.05.02-09.52.17:796][245]LogSlate: Window 'MainMenu' being destroyed
+[2020.05.02-09.52.17:828][245]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-09.52.17:828][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-09.52.17:841][245]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-09.52.17:841][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-09.52.49:654][912]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menus/SinglePlayerMenuContent/MainMenu.MainMenu
+[2020.05.02-09.53.23:780][784]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.02-09.53.23:780][784]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.02-09.54.00:834][769]LogEditorTransaction: Undo Edit Bottom
+[2020.05.02-09.54.02:051][864]LogEditorTransaction: Redo Edit Bottom
+[2020.05.02-09.54.42:961][165]LogEditorTransaction: Undo Edit Bottom
+[2020.05.02-09.54.43:357][179]LogEditorTransaction: Undo Edit Top
+[2020.05.02-09.55.10:295][985]LogEditorTransaction: Undo Set Vector Property
+[2020.05.02-09.55.57:769][194]LogSlate: Took 0.074514 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.05.02-09.56.43:864][862]LogTexture: Display: Building textures: City_Ring_Quater_low_Armour_Plating1_BaseColor (AutoDXT, 2048X2048)
+[2020.05.02-09.56.43:864][862]LogMaterial: Display: Missing cached shader map for material Armour_Plating1, compiling. 
+[2020.05.02-09.56.43:951][863]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.05.02-09.56.43:951][863]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.05.02-09.56.43:951][863]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.05.02-09.56.43:951][863]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.05.02-09.56.48:398][154]Cmd: TRANSACTION UNDO
+[2020.05.02-09.56.48:398][154]LogEditorTransaction: Undo Edit Font Material
+[2020.05.02-09.56.57:599][827]LogSlate: Window 'Save Asset As' being destroyed
+[2020.05.02-09.58.26:189][689]LogEditorTransaction: Undo Edit Text
+[2020.05.02-09.59.29:902][558]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.02-10.00.13:114][636]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.02-10.00.14:048][727]LogEditorTransaction: Undo Edit Background Color
+[2020.05.02-10.00.32:500][337]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.02-10.00.40:012][ 14]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.02-10.00.40:753][101]LogEditorTransaction: Undo Edit Color and Opacity
+[2020.05.02-10.00.41:129][114]LogEditorTransaction: Undo Edit Background Color
+[2020.05.02-10.00.41:532][148]LogEditorTransaction: Undo Edit Background Color
+[2020.05.02-10.00.41:920][191]LogEditorTransaction: Undo Edit Background Color
+[2020.05.02-10.00.42:900][299]LogEditorTransaction: Redo Edit Background Color
+[2020.05.02-10.00.43:113][322]LogEditorTransaction: Redo Edit Background Color
+[2020.05.02-10.00.43:324][345]LogEditorTransaction: Redo Edit Background Color
+[2020.05.02-10.00.43:490][363]LogEditorTransaction: Redo Edit Color and Opacity
+[2020.05.02-10.00.53:213][237]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.02-10.02.08:233][313]Cmd: TRANSACTION UNDO
+[2020.05.02-10.02.08:233][313]LogEditorTransaction: Undo Edit Background Color
+[2020.05.02-10.02.10:472][479]Cmd: TRANSACTION REDO
+[2020.05.02-10.02.10:472][479]LogEditorTransaction: Redo Edit Background Color
+[2020.05.02-10.02.10:473][479]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.02-10.02.12:749][682]Cmd: TRANSACTION UNDO
+[2020.05.02-10.02.12:749][682]LogEditorTransaction: Undo Edit Background Color
+[2020.05.02-10.02.13:100][710]Cmd: TRANSACTION REDO
+[2020.05.02-10.02.13:100][710]LogEditorTransaction: Redo Edit Background Color
+[2020.05.02-10.02.14:055][790]Cmd: TRANSACTION UNDO
+[2020.05.02-10.02.14:055][790]LogEditorTransaction: Undo Edit Background Color
+[2020.05.02-10.02.14:470][825]Cmd: TRANSACTION REDO
+[2020.05.02-10.02.14:470][825]LogEditorTransaction: Redo Edit Background Color
+[2020.05.02-10.02.15:022][875]Cmd: TRANSACTION UNDO
+[2020.05.02-10.02.15:023][875]LogEditorTransaction: Undo Edit Background Color
+[2020.05.02-10.02.24:175][657]Cmd: TRANSACTION UNDO
+[2020.05.02-10.02.24:175][657]LogEditorTransaction: Undo Edit Background Color
+[2020.05.02-10.02.26:903][858]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.02-10.02.31:600][276]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.02-10.02.49:076][898]BlueprintLog: New page: Compile MainMenu
+[2020.05.02-10.02.49:340][898]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2020.05.02-10.05.53:835][948]BlueprintLog: New page: Compile MainMenu
+[2020.05.02-10.05.53:880][948]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.05.02-10.05.55:763][148]LogSlate: Window 'MainMenu' being destroyed
+[2020.05.02-10.06.55:127][  7]BlueprintLog: New page: Compile MainMenu
+[2020.05.02-10.06.55:160][  7]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.05.02-10.07.32:862][748]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.05.02-10.07.33:154][748]LogSavePackage: Moving 'C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/MainMenuLevel_Auto1272B4C32409227672A53AEA542F07CC6.tmp' to 'C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Autosaves/Game/Levels/MainMenuLevel_Auto1.umap'
+[2020.05.02-10.07.33:157][748]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainMenuLevel' took 0.323
+[2020.05.02-10.07.33:157][748]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.323
+[2020.05.02-10.07.33:159][748]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Menus/SinglePlayerMenuContent/MainMenu] ([1] browsable assets)...
+[2020.05.02-10.07.33:159][748]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menus/SinglePlayerMenuContent/MainMenu]
+[2020.05.02-10.07.33:171][748]LogSavePackage: Moving 'C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/MainMenu_Auto19522F62A49377793DAD2539BCF8D048F.tmp' to 'C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Autosaves/Game/Menus/SinglePlayerMenuContent/MainMenu_Auto1.uasset'
+[2020.05.02-10.07.33:172][748]LogFileHelpers: Auto-saving content packages took 0.015
+[2020.05.02-10.08.15:131][503]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.02-10.12.13:188][688]BlueprintLog: New page: Compile MainMenu
+[2020.05.02-10.12.13:241][688]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.05.02-10.12.16:166][ 15]LogSavePackage: Moving 'C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/MainMenuCECDDC8947068FCE5E3A01AB3CE29D98.tmp' to 'C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Content/Menus/SinglePlayerMenuContent/MainMenu.uasset'
+[2020.05.02-10.12.16:182][ 15]AssetCheck: New page: Asset Save: MainMenu
+[2020.05.02-10.12.16:182][ 15]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menus/SinglePlayerMenuContent/MainMenu.MainMenu
+[2020.05.02-10.12.58:547][209]BlueprintLog: New page: Compile MainMenu
+[2020.05.02-10.12.58:585][209]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.05.02-10.14.01:254][614]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.02-10.14.06:652][235]LogEditorTransaction: Undo Move Widget
+[2020.05.02-10.14.10:867][686]LogEditorTransaction: Undo Move Widget
+[2020.05.02-10.14.30:851][981]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.02-10.14.33:363][266]Cmd: TRANSACTION UNDO
+[2020.05.02-10.14.33:363][266]LogEditorTransaction: Undo Move Widget
+[2020.05.02-10.14.34:592][371]Cmd: TRANSACTION UNDO
+[2020.05.02-10.14.34:592][371]LogEditorTransaction: Undo Edit Color and Opacity
+[2020.05.02-10.14.34:592][371]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.02-10.15.34:177][680]BlueprintLog: New page: Compile MainMenu
+[2020.05.02-10.15.34:215][680]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.05.02-10.16.26:488][793]LogEditorTransaction: Undo Move Widget
+[2020.05.02-10.16.33:020][482]LogEditorTransaction: Undo Move Widget
+[2020.05.02-10.16.33:395][495]LogEditorTransaction: Undo Move Widget
+[2020.05.02-10.20.42:828][212]LogEditorTransaction: Undo Move Widget
+[2020.05.02-10.22.49:958][159]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2020.05.02-10.22.50:032][159]LogSlate: Took 0.073379 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2020.05.02-10.23.04:258][822]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.02-10.23.39:692][ 20]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.02-10.23.41:742][265]LogEditorTransaction: Undo Edit Outline Color
+[2020.05.02-10.23.53:706][625]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.02-10.24.12:498][821]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.02-10.25.02:466][657]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.02-10.25.18:309][521]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.02-10.25.39:549][ 50]BlueprintLog: New page: Compile MainMenu
+[2020.05.02-10.25.39:592][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.05.02-10.26.06:528][477]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.05.02-10.26.06:529][477]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainMenuLevel' took 0.034
+[2020.05.02-10.26.06:529][477]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Menus/SinglePlayerMenuContent/MainMenu] ([1] browsable assets)...
+[2020.05.02-10.26.06:529][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menus/SinglePlayerMenuContent/MainMenu]
+[2020.05.02-10.26.06:569][477]LogSavePackage: Moving 'C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/MainMenu_Auto23764DAC14FA7652AE45684ABBC18F688.tmp' to 'C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Autosaves/Game/Menus/SinglePlayerMenuContent/MainMenu_Auto2.uasset'
+[2020.05.02-10.26.06:571][477]LogFileHelpers: Auto-saving content packages took 0.043
+[2020.05.02-10.27.52:062][ 74]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.02-10.27.55:774][506]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.02-10.27.58:982][877]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.02-10.28.14:163][661]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.02-10.31.06:556][855]LogEditorTransaction: Undo Move Widget
+[2020.05.02-10.31.10:243][248]LogEditorTransaction: Undo Move Widget
+[2020.05.02-10.31.10:597][260]LogEditorTransaction: Undo Move Widget
+[2020.05.02-10.31.11:700][378]LogEditorTransaction: Redo Move Widget
+[2020.05.02-10.31.13:413][564]LogEditorTransaction: Undo Move Widget
+[2020.05.02-10.31.14:992][719]LogEditorTransaction: Undo Move Widget
+[2020.05.02-10.31.20:858][325]LogEditorTransaction: Undo Move Widget
+[2020.05.02-10.31.32:035][473]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 227473
+[2020.05.02-10.31.32:037][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-10.31.32:045][474]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.02-10.31.32:046][474]LogSlate: Took 0.000084 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.02-10.31.32:049][474]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.02-10.31.32:049][474]LogSlate: Took 0.000090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.02-10.31.32:050][474]LogSlate: Took 0.000096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.02-10.31.32:483][524]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 51
+[2020.05.02-10.31.32:483][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-10.31.32:488][525]LogSlate: Took 0.000105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.02-10.31.32:488][525]LogSlate: Took 0.000065 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.02-10.31.32:492][525]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.02-10.31.32:492][525]LogSlate: Took 0.000065 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.02-10.31.32:493][525]LogSlate: Took 0.000061 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.02-10.31.32:848][563]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 39
+[2020.05.02-10.31.32:849][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-10.31.32:855][564]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.02-10.31.32:855][564]LogSlate: Took 0.000078 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.02-10.31.32:859][564]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.02-10.31.32:859][564]LogSlate: Took 0.000077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.02-10.31.32:860][564]LogSlate: Took 0.000085 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.02-10.31.44:217][919]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 1356
+[2020.05.02-10.31.44:221][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-10.31.44:228][920]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.02-10.31.44:229][920]LogSlate: Took 0.000078 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.02-10.31.44:232][920]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.02-10.31.44:232][920]LogSlate: Took 0.000078 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.02-10.31.44:233][920]LogSlate: Took 0.000081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.02-10.31.44:260][921]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 2
+[2020.05.02-10.31.44:264][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-10.31.44:268][922]LogSlate: Took 0.000111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.02-10.31.44:269][922]LogSlate: Took 0.000069 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.02-10.31.44:272][922]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.02-10.31.44:273][922]LogSlate: Took 0.000068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.02-10.31.44:273][922]LogSlate: Took 0.000063 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.02-10.31.44:431][939]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 18
+[2020.05.02-10.31.44:439][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-10.31.44:448][940]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.02-10.31.44:448][940]LogSlate: Took 0.000067 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.02-10.31.44:452][940]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.02-10.31.44:452][940]LogSlate: Took 0.000068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.02-10.31.44:453][940]LogSlate: Took 0.000102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.02-10.31.44:470][940]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 2 atlas pages as there is a lot of font data being cached.
+[2020.05.02-10.31.44:702][967]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 3/2 Pages; frames since last flush: 28
+[2020.05.02-10.31.44:706][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-10.31.44:712][968]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.02-10.31.44:713][968]LogSlate: Took 0.000082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.02-10.31.44:716][968]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.02-10.31.44:716][968]LogSlate: Took 0.000064 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.02-10.31.44:717][968]LogSlate: Took 0.000064 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.02-10.31.44:734][968]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 2 atlas pages as there is a lot of font data being cached.
+[2020.05.02-10.31.44:753][970]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 3/2 Pages; frames since last flush: 3
+[2020.05.02-10.31.44:764][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-10.31.44:771][971]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.02-10.31.44:771][971]LogSlate: Took 0.000074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.02-10.31.44:775][971]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.02-10.31.44:775][971]LogSlate: Took 0.000065 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.02-10.31.44:775][971]LogSlate: Took 0.000061 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.02-10.31.44:795][971]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 2 atlas pages as there is a lot of font data being cached.
+[2020.05.02-10.31.45:157][ 14]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 3/2 Pages; frames since last flush: 44
+[2020.05.02-10.31.45:170][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-10.31.45:176][ 15]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.02-10.31.45:177][ 15]LogSlate: Took 0.000081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.02-10.31.45:180][ 15]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.02-10.31.45:181][ 15]LogSlate: Took 0.000079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.02-10.31.45:181][ 15]LogSlate: Took 0.000073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.02-10.31.45:200][ 15]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 2 atlas pages as there is a lot of font data being cached.
+[2020.05.02-10.31.45:205][ 15]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 3 atlas pages as there is a lot of font data being cached.
+[2020.05.02-10.31.45:207][ 15]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 4 atlas pages as there is a lot of font data being cached.
+[2020.05.02-10.31.45:224][ 16]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 5/4 Pages; frames since last flush: 2
+[2020.05.02-10.31.45:241][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-10.31.45:255][ 17]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.02-10.31.45:255][ 17]LogSlate: Took 0.000067 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.02-10.31.45:259][ 17]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.02-10.31.45:259][ 17]LogSlate: Took 0.000070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.02-10.31.45:260][ 17]LogSlate: Took 0.000079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.02-10.31.45:279][ 17]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 2 atlas pages as there is a lot of font data being cached.
+[2020.05.02-10.31.45:284][ 17]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 3 atlas pages as there is a lot of font data being cached.
+[2020.05.02-10.31.45:285][ 17]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 4 atlas pages as there is a lot of font data being cached.
+[2020.05.02-10.32.04:408][305]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 5/4 Pages; frames since last flush: 2289
+[2020.05.02-10.32.04:424][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-10.32.04:437][306]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.02-10.32.04:437][306]LogSlate: Took 0.000080 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.02-10.32.04:440][306]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.02-10.32.04:441][306]LogSlate: Took 0.000075 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.02-10.32.04:442][306]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.02-10.32.04:461][306]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 2 atlas pages as there is a lot of font data being cached.
+[2020.05.02-10.32.04:475][307]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 3/2 Pages; frames since last flush: 2
+[2020.05.02-10.32.04:484][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-10.32.04:489][308]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.02-10.32.04:489][308]LogSlate: Took 0.000067 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.02-10.32.04:493][308]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.02-10.32.04:493][308]LogSlate: Took 0.000069 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.02-10.32.04:493][308]LogSlate: Took 0.000061 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.02-10.32.04:511][308]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 2 atlas pages as there is a lot of font data being cached.
+[2020.05.02-10.32.04:947][360]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 3/2 Pages; frames since last flush: 53
+[2020.05.02-10.32.04:955][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-10.32.04:961][361]LogSlate: Took 0.000104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.02-10.32.04:962][361]LogSlate: Took 0.000070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.02-10.32.04:965][361]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.02-10.32.04:965][361]LogSlate: Took 0.000066 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.02-10.32.04:966][361]LogSlate: Took 0.000064 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.02-10.32.04:982][361]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 2 atlas pages as there is a lot of font data being cached.
+[2020.05.02-10.32.05:016][364]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 3/2 Pages; frames since last flush: 4
+[2020.05.02-10.32.05:017][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-10.32.05:021][365]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.02-10.32.05:021][365]LogSlate: Took 0.000065 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.02-10.32.05:024][365]LogSlate: Took 0.000105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.02-10.32.05:025][365]LogSlate: Took 0.000065 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.02-10.32.05:025][365]LogSlate: Took 0.000060 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.02-10.32.05:566][428]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 64
+[2020.05.02-10.32.05:567][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-10.32.05:573][429]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.02-10.32.05:574][429]LogSlate: Took 0.000079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.02-10.32.05:577][429]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.02-10.32.05:578][429]LogSlate: Took 0.000080 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.02-10.32.05:578][429]LogSlate: Took 0.000072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.02-10.32.18:094][889]LogSlate: Took 0.001289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.05.02-10.33.06:796][677]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 7249
+[2020.05.02-10.33.06:796][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-10.33.06:804][678]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.02-10.33.06:804][678]LogSlate: Took 0.000083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.02-10.33.06:807][678]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.02-10.33.06:808][678]LogSlate: Took 0.000081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.02-10.33.06:808][678]LogSlate: Took 0.000074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.02-10.33.17:405][918]LogEditorTransaction: Undo Move Widget
+[2020.05.02-10.33.18:323][985]LogEditorTransaction: Undo Resize Widget
+[2020.05.02-10.33.18:820][ 39]LogEditorTransaction: Redo Resize Widget
+[2020.05.02-10.33.24:286][688]LogSlate: Took 0.000970 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.05.02-10.33.31:626][564]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 2887
+[2020.05.02-10.33.31:626][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-10.33.31:633][565]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.02-10.33.31:634][565]LogSlate: Took 0.000097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.02-10.33.31:637][565]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.02-10.33.31:638][565]LogSlate: Took 0.000078 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.02-10.33.31:638][565]LogSlate: Took 0.000071 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.02-10.33.31:674][568]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 4
+[2020.05.02-10.33.31:676][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-10.33.31:679][569]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.02-10.33.31:679][569]LogSlate: Took 0.000067 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.02-10.33.31:683][569]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.02-10.33.31:683][569]LogSlate: Took 0.000067 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.02-10.33.31:684][569]LogSlate: Took 0.000059 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.02-10.33.31:878][591]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 23
+[2020.05.02-10.33.31:879][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-10.33.31:885][592]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.02-10.33.31:886][592]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.02-10.33.31:889][592]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.02-10.33.31:889][592]LogSlate: Took 0.000065 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.02-10.33.31:890][592]LogSlate: Took 0.000061 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.02-10.33.34:884][950]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 359
+[2020.05.02-10.33.34:885][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-10.33.34:892][951]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.02-10.33.34:893][951]LogSlate: Took 0.000080 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.02-10.33.34:896][951]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.02-10.33.34:896][951]LogSlate: Took 0.000070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.02-10.33.34:897][951]LogSlate: Took 0.000065 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.02-10.33.34:917][952]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 2
+[2020.05.02-10.33.34:918][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-10.33.34:922][953]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.02-10.33.34:922][953]LogSlate: Took 0.000065 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.02-10.33.34:926][953]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.02-10.33.34:926][953]LogSlate: Took 0.000066 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.02-10.33.34:927][953]LogSlate: Took 0.000067 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.02-10.33.35:465][ 16]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 64
+[2020.05.02-10.33.35:466][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-10.33.35:471][ 17]LogSlate: Took 0.000113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.02-10.33.35:471][ 17]LogSlate: Took 0.000067 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.02-10.33.35:474][ 17]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.02-10.33.35:474][ 17]LogSlate: Took 0.000062 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.02-10.33.35:475][ 17]LogSlate: Took 0.000057 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.02-10.33.36:410][127]LogSlate: Took 0.000931 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.05.02-10.33.36:943][187]BlueprintLog: New page: Compile MainMenu
+[2020.05.02-10.33.36:985][187]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.05.02-10.34.25:994][916]BlueprintLog: New page: Compile MainMenu
+[2020.05.02-10.34.26:032][916]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.05.02-10.34.26:572][972]LogSavePackage: Moving 'C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/MainMenu586FC5F74C522706682D88AA929EA370.tmp' to 'C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Content/Menus/SinglePlayerMenuContent/MainMenu.uasset'
+[2020.05.02-10.34.26:585][972]AssetCheck: New page: Asset Save: MainMenu
+[2020.05.02-10.34.26:585][972]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menus/SinglePlayerMenuContent/MainMenu.MainMenu
+[2020.05.02-10.35.13:305][600]LogEditorTransaction: Undo Rename Widget
+[2020.05.02-10.38.25:196][129]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.05.02-10.38.25:197][129]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainMenuLevel' took 0.034
+[2020.05.02-10.38.25:197][129]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Menus/SinglePlayerMenuContent/MainMenu] ([1] browsable assets)...
+[2020.05.02-10.38.25:197][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menus/SinglePlayerMenuContent/MainMenu]
+[2020.05.02-10.38.25:222][129]LogSavePackage: Moving 'C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/MainMenu_Auto3C7BB76C64D4F1652200C05AC6C785A96.tmp' to 'C:/Users/Jason/Documents/GitHub/Project-Exodus/ProjectExodus/Saved/Autosaves/Game/Menus/SinglePlayerMenuContent/MainMenu_Auto3.uasset'
+[2020.05.02-10.38.25:223][129]LogFileHelpers: Auto-saving content packages took 0.026
+[2020.05.02-10.39.11:148][536]LogEditorTransaction: Undo Move Anchor
+[2020.05.02-10.43.27:209][655]BlueprintLog: New page: Compile MainMenu
+[2020.05.02-10.43.27:254][655]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.05.02-10.43.28:267][774]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.02-10.43.28:282][774]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2020.05.02-10.43.28:282][774]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.02-10.43.28:282][774]PIE: New page: PIE session: MainMenuLevel (2 May 2020, 12:43:28)
+[2020.05.02-10.43.28:282][774]LogTemp: Warning: GameInstance Constructor
+[2020.05.02-10.43.28:282][774]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2020.05.02-10.43.28:286][774]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004254s)
+[2020.05.02-10.43.28:287][774]LogAIModule: Creating AISystem for world MainMenuLevel
+[2020.05.02-10.43.28:287][774]LogPlayLevel: PIE: World Init took: (0.000858s)
+[2020.05.02-10.43.28:287][774]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.005204s)
+[2020.05.02-10.43.28:318][774]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.05.02-10.43.28:319][774]LogTemp: Warning: GameInstance Init
+[2020.05.02-10.43.28:319][774]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.02-10.43.28:319][774]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.02-10.43.28:319][774]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.02-10.43.28:319][774]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.02-10.43.28:319][774]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.02-10.43.28:319][774]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.02-10.43.28:319][774]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.02-10.43.28:319][774]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.02-10.43.28:320][774]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.02-10.43.28:320][774]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.02-10.43.28:344][774]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.02-10.43.28:344][774]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.05.02-10.43.28:344][774]LogAudioMixer: Display: Is Default: Yes
+[2020.05.02-10.43.28:344][774]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.02-10.43.28:344][774]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.02-10.43.28:344][774]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.02-10.43.28:344][774]LogAudioMixer: Display: Channel Order:
+[2020.05.02-10.43.28:344][774]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.02-10.43.28:344][774]LogAudioMixer: Display: 1: FrontRight
+[2020.05.02-10.43.28:356][774]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.05.02-10.43.28:357][774]LogInit: FAudioDevice initialized.
+[2020.05.02-10.43.28:400][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-10.43.28:400][774]LogLoad: Game class is 'MainMeunGameMode_C'
+[2020.05.02-10.43.28:403][774]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2020.05.02-11.43.28
+[2020.05.02-10.43.28:403][774]LogWorld: Bringing up level for play took: 0.001845
+[2020.05.02-10.43.28:403][774]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.05.02-10.43.28:429][774]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenuLevel 0.545
+[2020.05.02-10.43.28:429][774]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2020.05.02-10.43.28:493][775]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2020.05.02-10.43.31:324][110]LogSlate: Window 'ProjectExodus Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.02-10.43.31:328][110]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2020.05.02-10.43.31:328][110]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2020.05.02-10.43.31:342][110]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.02-10.43.31:362][110]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.02-10.43.31:362][110]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.43.31:362][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-10.43.31:370][110]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.02-10.43.31:370][110]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2020.05.02-10.43.31:375][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-10.43.31:405][110]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.02-10.43.31:411][110]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.05.02-10.43.31:421][111]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.05.02-10.47.45:011][ 39]Cmd: TRANSACTION UNDO
+[2020.05.02-10.47.45:011][ 39]LogEditorTransaction: Undo Move Row
+[2020.05.02-10.50.00:735][981]LogEditorTransaction: Undo Paste clipboard contents
+[2020.05.02-10.51.41:738][838]LogEditorTransaction: Undo Move Anchor
+[2020.05.02-10.51.46:098][319]LogEditorTransaction: Undo Move Anchor
+[2020.05.02-10.51.46:440][331]LogEditorTransaction: Undo Resize Widget
+[2020.05.02-10.51.52:167][994]LogEditorTransaction: Undo Resize Widget
+[2020.05.02-10.52.08:324][843]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.02-10.52.09:078][933]LogEditorTransaction: Undo Edit Vertical Alignment
+[2020.05.02-10.52.12:098][239]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.02-10.52.12:624][302]LogEditorTransaction: Undo Edit Specified Color
+[2020.05.02-10.52.13:045][314]Cmd: TRANSACTION UNDO
+[2020.05.02-10.52.13:045][314]LogEditorTransaction: Undo Edit Specified Color
+[2020.05.02-10.52.13:680][377]Cmd: TRANSACTION REDO
+[2020.05.02-10.52.13:680][377]LogEditorTransaction: Redo Edit Specified Color
+[2020.05.02-10.52.13:904][392]Cmd: TRANSACTION REDO
+[2020.05.02-10.52.13:904][392]LogEditorTransaction: Redo Edit Specified Color
+[2020.05.02-10.52.14:782][487]Cmd: TRANSACTION UNDO
+[2020.05.02-10.52.14:782][487]LogEditorTransaction: Undo Edit Specified Color
+[2020.05.02-10.52.15:207][527]Cmd: TRANSACTION REDO
+[2020.05.02-10.52.15:207][527]LogEditorTransaction: Redo Edit Specified Color
+[2020.05.02-10.52.24:783][621]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.02-10.52.26:982][862]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.02-10.52.33:456][591]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.02-10.53.42:372][725]BlueprintLog: New page: Compile MainMenu
+[2020.05.02-10.53.42:416][725]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.05.02-10.53.55:071][188]BlueprintLog: New page: Compile MainMenu
+[2020.05.02-10.53.55:113][188]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.05.02-10.54.00:309][780]BlueprintLog: New page: Compile MainMenu
+[2020.05.02-10.54.00:352][780]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.05.02-10.54.05:884][415]BlueprintLog: New page: Compile MainMenu
+[2020.05.02-10.54.05:927][415]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.05.02-10.54.24:371][589]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.02-10.54.27:512][944]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.02-10.54.28:163][ 22]LogEditorTransaction: Undo Edit Specified Color
+[2020.05.02-10.54.46:476][131]Cmd: TRANSACTION UNDO
+[2020.05.02-10.54.46:476][131]LogEditorTransaction: Undo Edit Specified Color
+[2020.05.02-10.54.49:105][398]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.02-10.54.50:267][536]LogEditorTransaction: Redo Edit Specified Color
+[2020.05.02-10.54.50:800][555]Cmd: TRANSACTION UNDO
+[2020.05.02-10.54.50:800][555]LogEditorTransaction: Undo Edit Specified Color
+[2020.05.02-10.54.59:373][548]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.02-10.55.03:703][ 65]BlueprintLog: New page: Compile MainMenu
+[2020.05.02-10.55.03:746][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.05.02-10.55.20:608][ 45]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.02-10.55.20:747][ 47]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2020.05.02-10.55.22:003][ 47]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.05.02-10.55.22:003][ 47]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2020.05.02-10.55.22:007][ 47]LogWindows: Error: === Critical error: ===
+[2020.05.02-10.55.22:007][ 47]LogWindows: Error: 
+[2020.05.02-10.55.22:007][ 47]LogWindows: Error: Fatal error: [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/RenderCore/Private/RenderingThread.cpp] [Line: 853] 
+[2020.05.02-10.55.22:008][ 47]LogWindows: Error: Rendering thread exception:
+[2020.05.02-10.55.22:008][ 47]LogWindows: Error: Assertion failed: MeshElement.Texture && MeshElement.Texture->SamplerStateRHI.GetReference() [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/BatchedElements.cpp] [Line: 1227] 
+[2020.05.02-10.55.22:008][ 47]LogWindows: Error: MeshElement.Texture=00000208061A0870, bInitialized=0, name=undefined
+[2020.05.02-10.55.22:008][ 47]LogWindows: Error: 
+[2020.05.02-10.55.22:008][ 47]LogWindows: Error: 
+[2020.05.02-10.55.22:008][ 47]LogWindows: Error: [Callstack] 0x00007ffa9276a799 KERNELBASE.dll!UnknownFunction []
+[2020.05.02-10.55.22:008][ 47]LogWindows: Error: [Callstack] 0x00000208ef7f99f0 UnknownFunction []
+[2020.05.02-10.55.22:008][ 47]LogWindows: Error: [Callstack] 0x000000e11c4f7230 UnknownFunction []
+[2020.05.02-10.55.22:008][ 47]LogWindows: Error: [Callstack] 0x000000e11c4f7230 UnknownFunction []
+[2020.05.02-10.55.22:008][ 47]LogWindows: Error: [Callstack] 0x00000000ffffffff UnknownFunction []
+[2020.05.02-10.55.22:008][ 47]LogWindows: Error: [Callstack] 0x0000000000004000 UnknownFunction []
+[2020.05.02-10.55.22:008][ 47]LogWindows: Error: 
+[2020.05.02-10.55.22:008][ 47]LogWindows: Error: 
+[2020.05.02-10.55.22:008][ 47]LogWindows: Error: 
+[2020.05.02-10.55.22:008][ 47]LogWindows: Error: 
+[2020.05.02-10.55.22:022][ 47]LogExit: Executing StaticShutdownAfterError
+[2020.05.02-10.55.22:025][ 47]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.05.02-10.55.22:025][ 47]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.05.02-10.55.22:038][ 47]Log file closed, 05/02/20 11:55:22
