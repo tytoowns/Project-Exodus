@@ -79,7 +79,7 @@ void AFlockManager::SpawnBoids()
 	spawnInfo.SpawnCollisionHandlingOverride = ESpawnActorCollisionHandlingMethod::AdjustIfPossibleButAlwaysSpawn;
 	targetLocation = FMath::RandPointInBox(levelBox);
 
-	UObject* SpawnActor = Cast<UObject>(StaticLoadObject(UObject::StaticClass(), NULL, TEXT("/Game/Blueprints/BP_Boid")));
+	UObject* SpawnActor = Cast<UObject>(StaticLoadObject(UObject::StaticClass(), NULL, TEXT("/Game/Blueprints/BP_Boid2")));
 
 	UBlueprint* GeneratedBP = Cast<UBlueprint>(SpawnActor);
 
@@ -168,7 +168,23 @@ void AFlockManager::DirectFlock()
 	if (boidList.Num() != 0)
 	{
 		// Display behaviours
+		FollowLeader();
 
+		if (boidList.Num() < 6)
+		{
+			boidSpeed = 200000.0f;
+
+			for (int i = 0; i < boidList.Num(); i++)
+			{
+				// Get a reference to each boid
+				ABoid* boid = Cast<ABoid>(boidList[i]);
+
+				boid->SetLightColor(FLinearColor::Red);
+			}
+
+		}
+
+		/*
 		if (boidList.Num() > 6)
 		{
 			FollowLeader();
@@ -177,10 +193,11 @@ void AFlockManager::DirectFlock()
 		{
 			Flock();
 		}
-		else if (boidList.Num() < 6)
-		{
-			MakeShape();
-		}
+		//else if (boidList.Num() < 6)
+		//{
+			//MakeShape();
+		//}
+		*/
 	}
 	else
 	{

@@ -25,7 +25,7 @@ protected:
 	FVector targetLocation;
 	float cohesionRadius;
 	float cohesionMultiplier = 3.0f;
-	float boidSpeed = 15000.0f;
+	float boidSpeed = 100000.0f; // 15,000???
 	int flockSize = 10;
 	float interpSpeed = 0.02f;
 	float rotationTolerance = 0.01f;
