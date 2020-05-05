@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ProjectExodus.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F4AEC0EF-C98D-4BE2-96F8-164D50A92219}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjectExodus.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ProjectExodusEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\ProjectExodus.code-workspace" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{F838F131-659D-4567-B443-A168A17D7E1C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\steamvr_ue_editor_app.json">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\SteamVRBindings">
+      <UniqueIdentifier>{E53E3ED2-CD4B-4391-A1AA-8008BA237265}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\SteamVRBindings\gamepad.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\holographic_controller.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\indexhmd.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\knuckles.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\oculus_touch.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\rift.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\steamvr_manifest.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_controller.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_cosmos_controller.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_pro.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_camera.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <Filter Include="Source\ProjectExodus">
+      <UniqueIdentifier>{B94CD80D-53FF-4CC5-9C19-F5D11257A6DD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectExodus\Boid.cpp">
+      <Filter>Source\ProjectExodus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectExodus\Boid.h">
+      <Filter>Source\ProjectExodus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectExodus\EnigneerRoom.cpp">
+      <Filter>Source\ProjectExodus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectExodus\EnigneerRoom.h">
+      <Filter>Source\ProjectExodus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectExodus\FlockManager.cpp">
+      <Filter>Source\ProjectExodus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectExodus\FlockManager.h">
+      <Filter>Source\ProjectExodus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectExodus\NavMeshBuilder.cpp">
+      <Filter>Source\ProjectExodus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectExodus\NavMeshBuilder.h">
+      <Filter>Source\ProjectExodus</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\ProjectExodus\ProjectExodus.Build.cs">
+      <Filter>Source\ProjectExodus</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ProjectExodus\ProjectExodus.cpp">
+      <Filter>Source\ProjectExodus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectExodus\ProjectExodus.h">
+      <Filter>Source\ProjectExodus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectExodus\ProjectExodusGameInstance.cpp">
+      <Filter>Source\ProjectExodus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectExodus\ProjectExodusGameInstance.h">
+      <Filter>Source\ProjectExodus</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

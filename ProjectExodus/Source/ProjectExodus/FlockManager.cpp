@@ -169,17 +169,17 @@ void AFlockManager::DirectFlock()
 	{
 		// Display behaviours
 
-		if (boidList.Num() > 6)
+		if (boidList.Num() > 10)
 		{
 			FollowLeader();
 		}
-		else if (boidList.Num() == 6)
+		else if (boidList.Num() <= 10)
 		{
 			Flock();
 		}
 		else if (boidList.Num() < 6)
 		{
-			MakeShape();
+			//MakeShape();
 		}
 	}
 	else
@@ -310,7 +310,7 @@ void AFlockManager::Flock()
 
 		// Finally, move forward
 		FVector location = boid->GetActorLocation();
-		location += boid->GetActorForwardVector() * boidSpeed * deltaTime;
+		location += boid->GetActorForwardVector() * (boidSpeed * 1.5) * deltaTime;
 		boid->SetActorLocation(location);
 
 		boidCounter++;
@@ -461,7 +461,7 @@ void AFlockManager::MakeShape()
 					end = boidList[j + 1]->GetActorLocation();
 				}
 
-				DrawDebugLine(GetWorld(), start, end, FColor::Red, false, 0.02f, ECC_WorldStatic, 100.f);
+				DrawDebugLine(GetWorld(), start, end, FColor::Red, false, 0.02f, ECC_WorldStatic, 1500.f);
 			}
 		}
 	}
