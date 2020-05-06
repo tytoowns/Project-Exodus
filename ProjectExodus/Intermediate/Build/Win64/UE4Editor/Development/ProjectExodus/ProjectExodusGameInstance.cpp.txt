@@ -1,0 +1,3 @@
+C:\Users\Gamer\Documents\GitHub\Project-Exodus\Project-Exodus\ProjectExodus\Intermediate\Build\Win64\UE4Editor\Development\ProjectExodus\Definitions.ProjectExodus.h
+c:\users\gamer\documents\github\project-exodus\project-exodus\projectexodus\source\projectexodus\ProjectExodusGameInstance.h
+C:\Users\Gamer\Documents\GitHub\Project-Exodus\Project-Exodus\ProjectExodus\Intermediate\Build\Win64\UE4Editor\Inc\ProjectExodus\ProjectExodusGameInstance.generated.h
