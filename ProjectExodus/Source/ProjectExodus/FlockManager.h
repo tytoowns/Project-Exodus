@@ -27,7 +27,7 @@ protected:
 	float cohesionMultiplier = 3.0f;
 	float boidSpeed = 150000.0f;
 	int flockSize = 15;
-	float interpSpeed = 0.02f;
+	float interpSpeed = 0.01f;
 	float rotationTolerance = 0.01f;
 
 	TArray<AActor*> boidList;

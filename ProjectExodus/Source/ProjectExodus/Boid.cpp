@@ -102,13 +102,13 @@ void ABoid::OnShot(float damage)
 	hp -= damage;
 
 	FTransform trans = GetActorTransform();
-	trans.SetScale3D(FVector(3.0f, 3.0f, 3.0f));
+	trans.SetScale3D(FVector(50.0f, 50.0f, 50.0f));
 
 	if (hp <= 0.0f)
 	{
 		bIsDead = true;
 		UGameplayStatics::SpawnEmitterAtLocation(GetWorld(), ExplosionParticle->Template, trans, true, EPSCPoolMethod::None, true);
-		ExplosionParticle->SetRelativeScale3D(FVector(10.0f, 10.0f, 10.0f));
+		ExplosionParticle->SetRelativeScale3D(FVector(150.0f, 150.0f, 150.0f));
 		this->Destroy();
 	}
 }
