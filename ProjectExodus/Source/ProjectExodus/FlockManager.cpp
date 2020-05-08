@@ -2,6 +2,7 @@
 
 
 #include "FlockManager.h"
+#include "Components/SceneComponent.h"
 #include "Components/BoxComponent.h"
 #include "Boid.h"
 #include "NavMeshBuilder.h"
@@ -19,7 +20,11 @@ AFlockManager::AFlockManager()
 {
 	PrimaryActorTick.bCanEverTick = true;
 
+	Scene = CreateDefaultSubobject<USceneComponent>(TEXT("Scene"));
+	RootComponent = Scene;
+
 	SpawnBox = CreateDefaultSubobject<UBoxComponent>(TEXT("NavBox"));
+	SpawnBox->SetupAttachment(Scene);
 	SpawnBox->SetCollisionResponseToAllChannels(ECR_Ignore);
 	SpawnBox->SetBoxExtent(FVector(100.0f, 100.0f, 100.0f));
 }
@@ -66,6 +71,7 @@ void AFlockManager::ScanBoundary()
 			if (HitData.GetActor()->IsA(ANavMeshBuilder::StaticClass()))
 			{
 				levelBox = HitData.GetComponent()->CalcBounds(HitData.GetComponent()->GetComponentTransform()).GetBox();
+				GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, TEXT("Scanned NavMeshBuilder bounds!!"));
 			}
 		}
 	}
@@ -316,7 +322,7 @@ void AFlockManager::Flock()
 		boidCounter++;
 
 		// Finally, check if leader has reached destination, if so, pick a new random one
-		if (FVector::Dist(boidList[0]->GetActorLocation(), targetLocation) < cohesionRadius)
+		if (FVector::Dist(boidList[0]->GetActorLocation(), targetLocation) < cohesionRadius * cohesionMultiplier)
 		{
 			targetLocation = FMath::RandPointInBox(levelBox);
 		}

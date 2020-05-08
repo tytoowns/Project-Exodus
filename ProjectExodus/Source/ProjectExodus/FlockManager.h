@@ -10,9 +10,12 @@ UCLASS()
 class PROJECTEXODUS_API AFlockManager : public AActor
 {
 	GENERATED_BODY()
-	
+
 		UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Mesh, meta = (AllowPrivateAccess = "true"))
 		class UBoxComponent* SpawnBox;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Mesh, meta = (AllowPrivateAccess = "true"))
+		class USceneComponent* Scene;
 
 protected:
 
@@ -28,7 +31,7 @@ protected:
 	float boidSpeed = 150000.0f;
 	int flockSize = 15;
 	float interpSpeed = 0.02f;
-	float rotationTolerance = 0.02f;
+	float rotationTolerance = 0.01f;
 
 	TArray<AActor*> boidList;
 	TArray<FVector> hexagonLocations;
@@ -41,7 +44,10 @@ protected:
 
 	// Flock functions
 	void ScanBoundary();
-	void SpawnBoids();
+
+	UFUNCTION(BlueprintCallable, Category = "Boids")
+		void SpawnBoids();
+
 	void FollowLeader();
 	void Flock();
 	void MakeShape();

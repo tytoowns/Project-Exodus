@@ -60,6 +60,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ANavMeshBuilder); \
 
 #define ProjectExodus_Source_ProjectExodus_NavMeshBuilder_h_12_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__NavBox() { return STRUCT_OFFSET(ANavMeshBuilder, NavBox); } \
+	FORCEINLINE static uint32 __PPO__Scene() { return STRUCT_OFFSET(ANavMeshBuilder, Scene); } \
 	FORCEINLINE static uint32 __PPO__bDynamicScanning() { return STRUCT_OFFSET(ANavMeshBuilder, bDynamicScanning); } \
 	FORCEINLINE static uint32 __PPO__secondsBetweenScans() { return STRUCT_OFFSET(ANavMeshBuilder, secondsBetweenScans); } \
 	FORCEINLINE static uint32 __PPO__numberOfFlocks() { return STRUCT_OFFSET(ANavMeshBuilder, numberOfFlocks); }

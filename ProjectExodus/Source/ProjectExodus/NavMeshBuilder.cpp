@@ -2,6 +2,7 @@
 
 
 #include "NavMeshBuilder.h"
+#include "Components/SceneComponent.h"
 #include "Components/BoxComponent.h"
 #include "Components/StaticMeshComponent.h"
 #include "GameFramework/Actor.h"
@@ -15,7 +16,11 @@ ANavMeshBuilder::ANavMeshBuilder()
 {
 	PrimaryActorTick.bCanEverTick = true;
 
+	Scene = CreateDefaultSubobject<USceneComponent>(TEXT("Scene"));
+	RootComponent = Scene;
+
 	NavBox = CreateDefaultSubobject<UBoxComponent>(TEXT("NavBox"));
+	NavBox->SetupAttachment(RootComponent);
 	NavBox->SetCollisionResponseToAllChannels(ECR_Ignore);
 	NavBox->SetCollisionResponseToChannel(ECC_GameTraceChannel1, ECR_Block);
 	NavBox->SetBoxExtent(FVector(1000.0f, 1000.0f, 1000.0f));

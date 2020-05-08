@@ -10,9 +10,12 @@ UCLASS()
 class PROJECTEXODUS_API ANavMeshBuilder : public AActor
 {
 	GENERATED_BODY()
-	
+
 		UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Mesh, meta = (AllowPrivateAccess = "true"))
 		class UBoxComponent* NavBox;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Mesh, meta = (AllowPrivateAccess = "true"))
+		class USceneComponent* Scene;
 
 protected:
 

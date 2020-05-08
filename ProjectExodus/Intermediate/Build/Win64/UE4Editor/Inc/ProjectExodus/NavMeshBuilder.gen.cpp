@@ -17,6 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeNavMeshBuilder() {}
 	PROJECTEXODUS_API UClass* Z_Construct_UClass_ANavMeshBuilder();
 	ENGINE_API UClass* Z_Construct_UClass_AActor();
 	UPackage* Z_Construct_UPackage__Script_ProjectExodus();
+	ENGINE_API UClass* Z_Construct_UClass_USceneComponent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_UBoxComponent_NoRegister();
 // End Cross Module References
 	void ANavMeshBuilder::StaticRegisterNativesANavMeshBuilder()
@@ -45,6 +46,10 @@ void EmptyLinkFunctionForGeneratedCodeNavMeshBuilder() {}
 #endif
 		static void NewProp_bDynamicScanning_SetBit(void* Obj);
 		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_bDynamicScanning;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_Scene_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_Scene;
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_NavBox_MetaData[];
 #endif
@@ -91,6 +96,15 @@ void EmptyLinkFunctionForGeneratedCodeNavMeshBuilder() {}
 	}
 	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UClass_ANavMeshBuilder_Statics::NewProp_bDynamicScanning = { "bDynamicScanning", nullptr, (EPropertyFlags)0x0020080000000005, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(ANavMeshBuilder), &Z_Construct_UClass_ANavMeshBuilder_Statics::NewProp_bDynamicScanning_SetBit, METADATA_PARAMS(Z_Construct_UClass_ANavMeshBuilder_Statics::NewProp_bDynamicScanning_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ANavMeshBuilder_Statics::NewProp_bDynamicScanning_MetaData)) };
 #if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ANavMeshBuilder_Statics::NewProp_Scene_MetaData[] = {
+		{ "AllowPrivateAccess", "true" },
+		{ "Category", "Mesh" },
+		{ "EditInline", "true" },
+		{ "ModuleRelativePath", "NavMeshBuilder.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ANavMeshBuilder_Statics::NewProp_Scene = { "Scene", nullptr, (EPropertyFlags)0x00400000000a001d, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ANavMeshBuilder, Scene), Z_Construct_UClass_USceneComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_ANavMeshBuilder_Statics::NewProp_Scene_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ANavMeshBuilder_Statics::NewProp_Scene_MetaData)) };
+#if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ANavMeshBuilder_Statics::NewProp_NavBox_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Mesh" },
@@ -103,6 +117,7 @@ void EmptyLinkFunctionForGeneratedCodeNavMeshBuilder() {}
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ANavMeshBuilder_Statics::NewProp_numberOfFlocks,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ANavMeshBuilder_Statics::NewProp_secondsBetweenScans,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ANavMeshBuilder_Statics::NewProp_bDynamicScanning,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ANavMeshBuilder_Statics::NewProp_Scene,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ANavMeshBuilder_Statics::NewProp_NavBox,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_ANavMeshBuilder_Statics::StaticCppClassTypeInfo = {
@@ -132,7 +147,7 @@ void EmptyLinkFunctionForGeneratedCodeNavMeshBuilder() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ANavMeshBuilder, 247451555);
+	IMPLEMENT_CLASS(ANavMeshBuilder, 3320640338);
 	template<> PROJECTEXODUS_API UClass* StaticClass<ANavMeshBuilder>()
 	{
 		return ANavMeshBuilder::StaticClass();

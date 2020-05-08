@@ -19,7 +19,9 @@ ABoid::ABoid()
 
 	// Sphere
 	CollisionSphere = CreateDefaultSubobject<USphereComponent>(TEXT("CollisionCapsule"));
-	CollisionSphere->SetSphereRadius(1600.0f);
+	RootComponent = CollisionSphere;
+	CollisionSphere->SetRelativeScale3D(FVector(20.0f, 20.0f, 20.0f));
+	CollisionSphere->SetSphereRadius(1200.0f);
 	CollisionSphere->OnComponentBeginOverlap.AddDynamic(this, &ABoid::BeginOverlap);
 	CollisionSphere->OnComponentEndOverlap.AddDynamic(this, &ABoid::EndOverlap);
 	CollisionSphere->SetCollisionResponseToAllChannels(ECR_Ignore);
@@ -29,6 +31,7 @@ ABoid::ABoid()
 	// Mesh
 	BoidMesh = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("BoidMesh"));
 	static ConstructorHelpers::FObjectFinder<UStaticMesh>mesh(TEXT("/Game/StaticMeshes/Drone_low1"));
+	BoidMesh->SetupAttachment(RootComponent);
 	BoidMesh->SetStaticMesh(mesh.Object);
 	BoidMesh->SetRelativeRotation(FRotator(0.0f, -90.0f, 0.0f));
 	BoidMesh->SetRelativeLocation(FVector(-190.0f, 0.0f, 0.0f));
@@ -41,14 +44,14 @@ ABoid::ABoid()
 	BoidMesh->SetMaterial(0, boidMat.Object);
 
 	// Particles
-	static ConstructorHelpers::FObjectFinder<UParticleSystem>PSExplode(TEXT("/Game/Particles/P_Explode"));
-	ExplosionParticle = CreateDefaultSubobject<UParticleSystemComponent>(TEXT("ExplosionParticle"));
-	ExplosionParticle->SetTemplate(PSExplode.Object);
-	ExplosionParticle->bAutoActivate = false;
-	ExplosionParticle->SetRelativeScale3D(FVector(100.0f, 100.0f, 100.0f));
+	//static ConstructorHelpers::FObjectFinder<UParticleSystem>PSExplode(TEXT("/Game/Particles/P_Explode"));
+	//ExplosionParticle = CreateDefaultSubobject<UParticleSystemComponent>(TEXT("ExplosionParticle"));
+	//ExplosionParticle->SetTemplate(PSExplode.Object);
+	//ExplosionParticle->bAutoActivate = false;
+	//ExplosionParticle->SetRelativeScale3D(FVector(100.0f, 100.0f, 100.0f));
 
-	static ConstructorHelpers::FObjectFinder<UParticleSystem>PSField(TEXT("/Game/Particles/P_Field"));
-	FieldParticle = CreateDefaultSubobject<UParticleSystemComponent>(TEXT("FieldParticle"));
+	//static ConstructorHelpers::FObjectFinder<UParticleSystem>PSField(TEXT("/Game/Particles/P_Field"));
+	//FieldParticle = CreateDefaultSubobject<UParticleSystemComponent>(TEXT("FieldParticle"));
 	//FieldParticle->SetTemplate(PSField.Object);
 	//FieldParticle->bAutoActivate = true;
 	//FieldParticle->SetupAttachment(BoidMesh);
@@ -56,6 +59,7 @@ ABoid::ABoid()
 
 	// Lights
 	FrontLight = CreateDefaultSubobject<USpotLightComponent>(TEXT("FrontLight"));
+	FrontLight->SetupAttachment(RootComponent);
 	FrontLight->SetLightColor(FLinearColor::Green);
 	FrontLight->SetRelativeLocationAndRotation(FVector(1360.0f, 0.0f, 0.0f), FRotator(0.0f, 180.0f, 0.0f));
 	FrontLight->SetIntensity(40000000.0f);
@@ -63,6 +67,7 @@ ABoid::ABoid()
 	FrontLight->SetupAttachment(BoidMesh);
 
 	RearLight = CreateDefaultSubobject<USpotLightComponent>(TEXT("RearLight"));
+	RearLight->SetupAttachment(RootComponent);
 	RearLight->SetLightColor(FLinearColor::Green);
 	RearLight->SetRelativeLocation(FVector(-1682.0f, 0.0f, 0.0f));
 	RearLight->SetIntensity(40000000.0f);

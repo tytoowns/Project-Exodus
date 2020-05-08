@@ -14,8 +14,28 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define PROJECTEXODUS_FlockManager_generated_h
 
 #define ProjectExodus_Source_ProjectExodus_FlockManager_h_12_SPARSE_DATA
-#define ProjectExodus_Source_ProjectExodus_FlockManager_h_12_RPC_WRAPPERS
-#define ProjectExodus_Source_ProjectExodus_FlockManager_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define ProjectExodus_Source_ProjectExodus_FlockManager_h_12_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execSpawnBoids) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->SpawnBoids(); \
+		P_NATIVE_END; \
+	}
+
+
+#define ProjectExodus_Source_ProjectExodus_FlockManager_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execSpawnBoids) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->SpawnBoids(); \
+		P_NATIVE_END; \
+	}
+
+
 #define ProjectExodus_Source_ProjectExodus_FlockManager_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAFlockManager(); \
@@ -59,7 +79,8 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AFlockManager); \
 
 
 #define ProjectExodus_Source_ProjectExodus_FlockManager_h_12_PRIVATE_PROPERTY_OFFSET \
-	FORCEINLINE static uint32 __PPO__SpawnBox() { return STRUCT_OFFSET(AFlockManager, SpawnBox); }
+	FORCEINLINE static uint32 __PPO__SpawnBox() { return STRUCT_OFFSET(AFlockManager, SpawnBox); } \
+	FORCEINLINE static uint32 __PPO__Scene() { return STRUCT_OFFSET(AFlockManager, Scene); }
 
 
 #define ProjectExodus_Source_ProjectExodus_FlockManager_h_9_PROLOG
