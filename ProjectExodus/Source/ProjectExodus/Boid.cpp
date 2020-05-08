@@ -44,11 +44,11 @@ ABoid::ABoid()
 	BoidMesh->SetMaterial(0, boidMat.Object);
 
 	// Particles
-	//static ConstructorHelpers::FObjectFinder<UParticleSystem>PSExplode(TEXT("/Game/Particles/P_Explode"));
-	//ExplosionParticle = CreateDefaultSubobject<UParticleSystemComponent>(TEXT("ExplosionParticle"));
-	//ExplosionParticle->SetTemplate(PSExplode.Object);
-	//ExplosionParticle->bAutoActivate = false;
-	//ExplosionParticle->SetRelativeScale3D(FVector(100.0f, 100.0f, 100.0f));
+	static ConstructorHelpers::FObjectFinder<UParticleSystem>PSExplode(TEXT("/Game/Particles/P_Explode"));
+	ExplosionParticle = CreateDefaultSubobject<UParticleSystemComponent>(TEXT("ExplosionParticle"));
+	ExplosionParticle->SetTemplate(PSExplode.Object);
+	ExplosionParticle->bAutoActivate = false;
+	ExplosionParticle->SetRelativeScale3D(FVector(100.0f, 100.0f, 100.0f));
 
 	//static ConstructorHelpers::FObjectFinder<UParticleSystem>PSField(TEXT("/Game/Particles/P_Field"));
 	//FieldParticle = CreateDefaultSubobject<UParticleSystemComponent>(TEXT("FieldParticle"));

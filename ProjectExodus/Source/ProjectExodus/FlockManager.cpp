@@ -34,8 +34,8 @@ void AFlockManager::BeginPlay()
 {
 	Super::BeginPlay();
 
-	SpawnBoids();
 	ScanBoundary();
+	SpawnBoids();
 }
 
 // Called every frame
