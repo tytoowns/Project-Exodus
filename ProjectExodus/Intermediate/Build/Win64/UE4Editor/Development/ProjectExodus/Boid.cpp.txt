@@ -1,6 +1,6 @@
-C:\Users\kyles\OneDrive\Documents\GitHub\Project-Exodus\ProjectExodus\Intermediate\Build\Win64\UE4Editor\Development\ProjectExodus\Definitions.ProjectExodus.h
-C:\Users\kyles\OneDrive\Documents\GitHub\Project-Exodus\ProjectExodus\Source\ProjectExodus\Boid.h
-C:\Users\kyles\OneDrive\Documents\GitHub\Project-Exodus\ProjectExodus\Intermediate\Build\Win64\UE4Editor\Inc\ProjectExodus\Boid.generated.h
+C:\Users\Gamer\Documents\GitHub\Project-Exodus\Project-Exodus\ProjectExodus\Intermediate\Build\Win64\UE4Editor\Development\ProjectExodus\Definitions.ProjectExodus.h
+c:\users\gamer\documents\github\project-exodus\project-exodus\projectexodus\source\projectexodus\Boid.h
+C:\Users\Gamer\Documents\GitHub\Project-Exodus\Project-Exodus\ProjectExodus\Intermediate\Build\Win64\UE4Editor\Inc\ProjectExodus\Boid.generated.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
@@ -26,7 +26,7 @@ C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Kismet/KismetMathLibrary.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/QualifiedFrameTime.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetMathLibrary.generated.h
-C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Kismet\KismetMathLibrary.inl
+c:\program files\epic games\ue_4.24\engine\source\runtime\engine\classes\kismet\KismetMathLibrary.inl
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
@@ -34,7 +34,7 @@ C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
-C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+c:\program files\epic games\ue_4.24\engine\source\runtime\engine\classes\kismet\GameplayStaticsTypes.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h

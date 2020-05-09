@@ -85,32 +85,18 @@ void AFlockManager::SpawnBoids()
 	spawnInfo.SpawnCollisionHandlingOverride = ESpawnActorCollisionHandlingMethod::AdjustIfPossibleButAlwaysSpawn;
 	targetLocation = FMath::RandPointInBox(levelBox);
 
-	UObject* SpawnActor = Cast<UObject>(StaticLoadObject(UObject::StaticClass(), NULL, TEXT("/Game/Blueprints/BP_Boid")));
+	//UObject* SpawnActor = Cast<UObject>(StaticLoadObject(UObject::StaticClass(), NULL, TEXT("/Game/Blueprints/BP_Boid")));
+	//UBlueprint* GeneratedBP = Cast<UBlueprint>(SpawnActor);
 
-	UBlueprint* GeneratedBP = Cast<UBlueprint>(SpawnActor);
-
-	if (!SpawnActor)
-	{
-		GEngine->AddOnScreenDebugMessage(-1, 1.f, FColor::Red, FString::Printf(TEXT("CANT FIND OBJECT TO SPAWN")));
-		return;
-	}
-
-	UClass* SpawnClass = SpawnActor->StaticClass();
-
-	if (SpawnClass == NULL)
-	{
-		GEngine->AddOnScreenDebugMessage(-1, 1.f, FColor::Red, FString::Printf(TEXT("CLASS == NULL")));
-		return;
-	}
+	const TSubclassOf<AActor> BPSubClass = Cast<UClass>(StaticLoadObject(UObject::StaticClass(), nullptr, TEXT("Blueprint'/Game/Blueprints/BP_Boid.BP_Boid_C'")));
 
 	// Spawn a flock of boids
 	for (int i = 0; i < flockSize; i++)
 	{
 		// Spawn a blueprint boid
-		ABoid* boid = GetWorld()->SpawnActor<ABoid>(GeneratedBP->GeneratedClass, FMath::RandPointInBox(SpawnBox->CalcBounds(SpawnBox->GetComponentTransform()).GetBox()), FRotator(0.0f, 0.0f, 0.0f), spawnInfo);
+		//ABoid* boid = GetWorld()->SpawnActor<ABoid>(GeneratedBP->GeneratedClass, FMath::RandPointInBox(SpawnBox->CalcBounds(SpawnBox->GetComponentTransform()).GetBox()), FRotator(0.0f, 0.0f, 0.0f), spawnInfo);
 
-		// Spawn a C++ boid
-		//ABoid* boid = GetWorld()->SpawnActor<ABoid>(FMath::RandPointInBox(SpawnBox->CalcBounds(SpawnBox->GetComponentTransform()).GetBox()), FRotator(0.0f, 0.0f, 0.0f), spawnInfo);
+		ABoid* boid = GetWorld()->SpawnActor<ABoid>(BPSubClass, FMath::RandPointInBox(SpawnBox->CalcBounds(SpawnBox->GetComponentTransform()).GetBox()), FRotator(0.0f, 0.0f, 0.0f), spawnInfo);
 
 		//Add the boid to the array
 		boidList.Add(boid);
