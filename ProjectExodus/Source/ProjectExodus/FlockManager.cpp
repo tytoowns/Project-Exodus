@@ -235,7 +235,7 @@ void AFlockManager::FollowLeader()
 	}
 
 	// Finally, check if leader has reached destination, if so, pick a new random one
-	if (FVector::Dist(boidList[0]->GetActorLocation(), targetLocation) < cohesionRadius)
+	if (FVector::Dist(boidList[0]->GetActorLocation(), targetLocation) < cohesionRadius * cohesionMultiplier)
 	{
 		targetLocation = FMath::RandPointInBox(levelBox);
 	}
