@@ -1,5 +1,5 @@
-E:\Github game dev\Project-Exodus\ProjectExodus\Intermediate\Build\Win64\UE4Editor\Development\ProjectExodus\Definitions.ProjectExodus.h
-E:\Program Files (x86)\Ue4\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-E:\Program Files (x86)\Ue4\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-E:\Github game dev\Project-Exodus\ProjectExodus\Source\ProjectExodus/NavMeshBuilder.h
-E:\Github game dev\Project-Exodus\ProjectExodus\Intermediate\Build\Win64\UE4Editor\Inc\ProjectExodus\NavMeshBuilder.generated.h
+C:\Users\Gamer\Documents\GitHub\Project-Exodus\Project-Exodus\ProjectExodus\Intermediate\Build\Win64\UE4Editor\Development\ProjectExodus\Definitions.ProjectExodus.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Gamer\Documents\GitHub\Project-Exodus\Project-Exodus\ProjectExodus\Source\ProjectExodus/NavMeshBuilder.h
+c:\users\gamer\documents\github\project-exodus\project-exodus\projectexodus\intermediate\build\win64\ue4editor\inc\projectexodus\NavMeshBuilder.generated.h
