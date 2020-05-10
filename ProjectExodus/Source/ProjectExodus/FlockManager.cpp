@@ -71,7 +71,7 @@ void AFlockManager::ScanBoundary()
 			if (HitData.GetActor()->IsA(ANavMeshBuilder::StaticClass()))
 			{
 				levelBox = HitData.GetComponent()->CalcBounds(HitData.GetComponent()->GetComponentTransform()).GetBox();
-				GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, TEXT("Scanned NavMeshBuilder bounds!!"));
+				//GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, TEXT("Scanned NavMeshBuilder bounds!!"));
 			}
 		}
 	}
