@@ -1,10 +1,10 @@
-C:\Users\Gamer\Documents\GitHub\Project-Exodus\Project-Exodus\ProjectExodus\Intermediate\Build\Win64\UE4Editor\Development\ProjectExodus\Definitions.ProjectExodus.h
-c:\users\gamer\documents\github\project-exodus\project-exodus\projectexodus\source\projectexodus\NavMeshBuilder.h
-C:\Users\Gamer\Documents\GitHub\Project-Exodus\Project-Exodus\ProjectExodus\Intermediate\Build\Win64\UE4Editor\Inc\ProjectExodus\NavMeshBuilder.generated.h
-C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
-C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
-C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
-C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
-C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
-c:\users\gamer\documents\github\project-exodus\project-exodus\projectexodus\source\projectexodus\FlockManager.h
-C:\Users\Gamer\Documents\GitHub\Project-Exodus\Project-Exodus\ProjectExodus\Intermediate\Build\Win64\UE4Editor\Inc\ProjectExodus\FlockManager.generated.h
+E:\Github game dev\Project-Exodus\ProjectExodus\Intermediate\Build\Win64\UE4Editor\Development\ProjectExodus\Definitions.ProjectExodus.h
+E:\Github game dev\Project-Exodus\ProjectExodus\Source\ProjectExodus\NavMeshBuilder.h
+E:\Github game dev\Project-Exodus\ProjectExodus\Intermediate\Build\Win64\UE4Editor\Inc\ProjectExodus\NavMeshBuilder.generated.h
+E:\Program Files (x86)\Ue4\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+E:\Program Files (x86)\Ue4\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+E:\Program Files (x86)\Ue4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+E:\Program Files (x86)\Ue4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+E:\Program Files (x86)\Ue4\UE_4.24\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
+E:\Github game dev\Project-Exodus\ProjectExodus\Source\ProjectExodus\FlockManager.h
+E:\Github game dev\Project-Exodus\ProjectExodus\Intermediate\Build\Win64\UE4Editor\Inc\ProjectExodus\FlockManager.generated.h
